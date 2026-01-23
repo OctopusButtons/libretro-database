@@ -1,7 +1,7 @@
 clrmamepro (
-	name "Atari - 8-bit"
-	description "Atari - 8-bit"
-	version "2025.08.05"
+	name "Atari - 8-bit Family"
+	description "Atari - 8-bit Family"
+	version "2026.01.17"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -46,6 +46,11 @@ game (
 	rom ( name "Basketball (USA).bin" size 8192 crc 79934851 md5 DDD9F7E02145CA65B6CC2C5308D366F0 sha1 639E8F9BF907ED2C46D183F2CDBE33783F6DA2FA )
 )
 game (
+	name "Caverns of Mars (USA)"
+	region "USA"
+	rom ( name "Caverns of Mars (USA).atr" size 92176 crc B5B08100 md5 F831660A323980E0F6471331EF0595B0 sha1 E4CFD18A24734AE2B038810F10765FD440522ADC )
+)
+game (
 	name "Centipede (Europe)"
 	region "Europe"
 	rom ( name "Centipede (Europe).atx" size 8192 crc 44BB1842 md5 A52EBB9034AF44BEA4AE73E088A102C3 sha1 2EED9A6BBC4C0396A0EFC48FC810F9363C23A3C3 )
@@ -69,6 +74,11 @@ game (
 	name "Final Legacy (USA)"
 	region "USA"
 	rom ( name "Final Legacy (USA).bin" size 16384 crc 6BD0D8E4 md5 61EC87B491EE82CC867F66AFAC7793D6 sha1 4BDFBAB83E336C58E4CC2E3DBB096F29976F5761 )
+)
+game (
+	name "Food Fight (USA)"
+	region "USA"
+	rom ( name "Food Fight (USA).bin" size 32768 crc 4236F0EA md5 1164097E2990778B0F99017FE118DE47 sha1 79AAFC04D41D5167502B4EA74C531F9C2E706580 )
 )
 game (
 	name "Frogger (USA)"
@@ -109,6 +119,11 @@ game (
 	name "Missile Command (USA)"
 	region "USA"
 	rom ( name "Missile Command (USA).bin" size 8192 crc D2E36392 md5 790B71981A0378508864BE428C84ADED sha1 DF5474E89183CA0313F50EA4FC72C67BF81C7351 )
+)
+game (
+	name "Moon Patrol (USA)"
+	region "USA"
+	rom ( name "Moon Patrol (USA).bin" size 16384 crc B845EDB8 md5 79DE1FA1413B43D9AA943CB91394C0A2 sha1 55B66F8E5DDA90035F8C53F5317E95D3B55D57C8 )
 )
 game (
 	name "One-on-One (USA, Europe)"
