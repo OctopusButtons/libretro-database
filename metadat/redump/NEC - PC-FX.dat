@@ -1,7 +1,8 @@
 clrmamepro (
 	name "NEC - PC-FX"
 	description "NEC - PC-FX"
-	version "2026.01.17"
+	version "2026.10.07"
+	extensions "bin"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 

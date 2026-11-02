@@ -65,6 +65,9 @@ game (
 game (
 	name ".hack//Versus"
 	serial "BLJS93008"
+	developer "Cyberconnect2"
+	publisher "Namco Bandai Games"
+	releaseyear 2026
 	users 1
 	rom (
 		name ".hack//Versus.iso"
@@ -6969,9 +6972,9 @@ game (
 game (
 	name "Assassin's Creed: Revelations (Europe)"
 	serial "BLES01384"
-	developer "Black Rock Studio"
-	publisher "Disney Interactive"
-	releaseyear 2010
+	developer "Ubisoft Montréal"
+	publisher "Ubisoft Entertainment S.A."
+	releaseyear 2011
 	users 1
 	rom (
 		name "Assassin's Creed: Revelations (Europe).iso"
@@ -17929,6 +17932,19 @@ game (
 )
 
 game (
+	name "Call of Duty: Black Ops II (Dubbed) (Japan)"
+	serial "BLJM61231"
+	developer "Treyarch"
+	publisher "Activision"
+	releaseyear 2014
+	users 1
+	rom (
+		name "Call of Duty: Black Ops II (Dubbed) (Japan).iso"
+		serial "BLJM61231"
+	)
+)
+
+game (
 	name "Call of Duty: Black Ops II (Europe)"
 	serial "BLES01717"
 	developer "Treyarch"
@@ -24075,8 +24091,13 @@ game (
 game (
 	name "Dark Souls II: Scholar of the First Sin (USA)"
 	serial "BLUS31528"
-	releaseyear 2021
+	developer "FromSoftware, Inc"
+	publisher "Namco Bandai Games "
+	releaseyear 2015
+	releasemonth 4
+	releaseday 1
 	users 1
+	esrb_rating "T"
 	rom (
 		name "Dark Souls II: Scholar of the First Sin (USA).iso"
 		serial "BLUS31528"
@@ -26213,34 +26234,34 @@ game (
 )
 
 game (
-	name "DeathSpank - Thongs of Virtue"
+	name "DeathSpank: Thongs of Virtue"
 	serial "NPEB00291"
 	releaseyear 2014
 	users 1
 	rom (
-		name "DeathSpank - Thongs of Virtue.iso"
+		name "DeathSpank: Thongs of Virtue.iso"
 		serial "NPEB00291"
 	)
 )
 
 game (
-	name "DeathSpank - Thongs of Virtue"
+	name "DeathSpank: Thongs of Virtue"
 	serial "NPHB00277"
 	releaseyear 2014
 	users 1
 	rom (
-		name "DeathSpank - Thongs of Virtue.iso"
+		name "DeathSpank: Thongs of Virtue.iso"
 		serial "NPHB00277"
 	)
 )
 
 game (
-	name "DeathSpank - Thongs of Virtue"
+	name "DeathSpank: Thongs of Virtue"
 	serial "NPUB30292"
 	releaseyear 2014
 	users 1
 	rom (
-		name "DeathSpank - Thongs of Virtue.iso"
+		name "DeathSpank: Thongs of Virtue.iso"
 		serial "NPUB30292"
 	)
 )
@@ -28954,7 +28975,10 @@ game (
 	developer "Avalanche Software"
 	publisher "Disney Interactive"
 	releaseyear 2013
-	users 1
+	releasemonth 8
+	releaseday 18
+	users 2
+	esrb_rating "E10+"
 	rom (
 		name "Disney Infinity (USA).iso"
 		serial "BLUS30977"
@@ -29014,6 +29038,7 @@ game (
 	releasemonth 8
 	releaseday 25
 	users 2
+	esrb_rating "E10+"
 	rom (
 		name "Disney Infinity 3.0 Edition (USA).iso"
 		serial "BLUS31522"
@@ -32760,6 +32785,7 @@ game (
 game (
 	name "Driver: San Francisco (Europe)"
 	serial "BLES00951"
+	releaseyear 2025
 	users 1
 	rom (
 		name "Driver: San Francisco (Europe).iso"
@@ -36623,7 +36649,13 @@ game (
 game (
 	name "F.E.A.R.: First Encounter Assault Recon (USA)"
 	serial "BLUS30003"
+	developer "Day 1 Studios"
+	publisher "Sierra"
+	releaseyear 2007
+	releasemonth 4
+	releaseday 24
 	users 1
+	esrb_rating "M"
 	rom (
 		name "F.E.A.R.: First Encounter Assault Recon (USA).iso"
 		serial "BLUS30003"
@@ -44308,7 +44340,9 @@ game (
 game (
 	name "Giana Sisters - Twisted Dreams"
 	serial "NPEB01338"
-	releaseyear 2021
+	releaseyear 2013
+	releasemonth 6
+	releaseday 19
 	users 1
 	rom (
 		name "Giana Sisters - Twisted Dreams.iso"
@@ -47752,21 +47786,6 @@ game (
 )
 
 game (
-	name "Guitar Hero World Tour (Europe)"
-	serial "BLES00299"
-	developer "Neversoft Entertainment"
-	publisher "Activision Blizzard"
-	releaseyear 2008
-	releasemonth 11
-	releaseday 20
-	users 4
-	rom (
-		name "Guitar Hero World Tour (Europe).iso"
-		serial "BLES00299"
-	)
-)
-
-game (
 	name "Guitar Hero World Tour (USA)"
 	serial "BLUS30164"
 	developer "Neversoft Entertainment"
@@ -47917,6 +47936,21 @@ game (
 	rom (
 		name "Guitar Hero: Warriors of Rock (USA).iso"
 		serial "BLUS30487"
+	)
+)
+
+game (
+	name "Guitar Hero: World Tour (Europe)"
+	serial "BLES00299"
+	developer "Neversoft Entertainment"
+	publisher "Activision Blizzard"
+	releaseyear 2008
+	releasemonth 11
+	releaseday 20
+	users 4
+	rom (
+		name "Guitar Hero: World Tour (Europe).iso"
+		serial "BLES00299"
 	)
 )
 
@@ -67762,6 +67796,21 @@ game (
 
 game (
 	name "Metal Gear Solid HD Collection"
+	serial "BLAS50381"
+	developer "Kojima Productions"
+	publisher "Konami"
+	releaseyear 2011
+	releasemonth 11
+	releaseday 11
+	users 1
+	rom (
+		name "Metal Gear Solid HD Collection.iso"
+		serial "BLAS50381"
+	)
+)
+
+game (
+	name "Metal Gear Solid HD Collection"
 	serial "BLKS20316"
 	developer "Bluepoint Games / Genki"
 	publisher "Konami"
@@ -83346,28 +83395,6 @@ game (
 )
 
 game (
-	name "Plants vs. Zombies - Garden Warfare"
-	serial "NPEB01997"
-	releaseyear 2021
-	users 1
-	rom (
-		name "Plants vs. Zombies - Garden Warfare.iso"
-		serial "NPEB01997"
-	)
-)
-
-game (
-	name "Plants vs. Zombies - Garden Warfare"
-	serial "NPUB31457"
-	releaseyear 2021
-	users 1
-	rom (
-		name "Plants vs. Zombies - Garden Warfare.iso"
-		serial "NPUB31457"
-	)
-)
-
-game (
 	name "Plants vs. Zombies: Garden Warfare"
 	serial "BLAS50720"
 	releaseyear 2014
@@ -83375,6 +83402,28 @@ game (
 	rom (
 		name "Plants vs. Zombies: Garden Warfare.iso"
 		serial "BLAS50720"
+	)
+)
+
+game (
+	name "Plants vs. Zombies: Garden Warfare"
+	serial "NPEB01997"
+	releaseyear 2021
+	users 1
+	rom (
+		name "Plants vs. Zombies: Garden Warfare.iso"
+		serial "NPEB01997"
+	)
+)
+
+game (
+	name "Plants vs. Zombies: Garden Warfare"
+	serial "NPUB31457"
+	releaseyear 2021
+	users 1
+	rom (
+		name "Plants vs. Zombies: Garden Warfare.iso"
+		serial "NPUB31457"
 	)
 )
 
@@ -89755,45 +89804,12 @@ game (
 
 game (
 	name "Resident Evil - Revelations"
-	serial "NPHB00545"
-	releaseyear 2021
-	users 1
-	rom (
-		name "Resident Evil - Revelations.iso"
-		serial "NPHB00545"
-	)
-)
-
-game (
-	name "Resident Evil - Revelations"
-	serial "NPJB90584"
-	releaseyear 2021
-	users 1
-	rom (
-		name "Resident Evil - Revelations.iso"
-		serial "NPJB90584"
-	)
-)
-
-game (
-	name "Resident Evil - Revelations"
 	serial "NPUB30991"
 	releaseyear 2021
 	users 1
 	rom (
 		name "Resident Evil - Revelations.iso"
 		serial "NPUB30991"
-	)
-)
-
-game (
-	name "Resident Evil - Revelations"
-	serial "NPUB90938"
-	releaseyear 2021
-	users 1
-	rom (
-		name "Resident Evil - Revelations.iso"
-		serial "NPUB90938"
 	)
 )
 
@@ -89816,6 +89832,45 @@ game (
 	rom (
 		name "Resident Evil - Revelations 2 - Episode 1 - Penal Colony.iso"
 		serial "NPUB31518"
+	)
+)
+
+game (
+	name "Resident Evil - Revelations Demo"
+	serial "NPHB00545"
+	releaseyear 2013
+	releasemonth 5
+	releaseday 17
+	users 1
+	rom (
+		name "Resident Evil - Revelations Demo.iso"
+		serial "NPHB00545"
+	)
+)
+
+game (
+	name "Resident Evil - Revelations Demo"
+	serial "NPJB90584"
+	releaseyear 2013
+	releasemonth 5
+	releaseday 17
+	users 1
+	rom (
+		name "Resident Evil - Revelations Demo.iso"
+		serial "NPJB90584"
+	)
+)
+
+game (
+	name "Resident Evil - Revelations Demo"
+	serial "NPUB90938"
+	releaseyear 2013
+	releasemonth 5
+	releaseday 17
+	users 1
+	rom (
+		name "Resident Evil - Revelations Demo.iso"
+		serial "NPUB90938"
 	)
 )
 
@@ -90217,17 +90272,6 @@ game (
 )
 
 game (
-	name "Resident Evil Revelations"
-	serial "NPEB90478"
-	releaseyear 2021
-	users 1
-	rom (
-		name "Resident Evil Revelations.iso"
-		serial "NPEB90478"
-	)
-)
-
-game (
 	name "Resident Evil Revelations 2"
 	serial "BLAS50792"
 	releaseyear 2019
@@ -90235,6 +90279,19 @@ game (
 	rom (
 		name "Resident Evil Revelations 2.iso"
 		serial "BLAS50792"
+	)
+)
+
+game (
+	name "Resident Evil Revelations Demo"
+	serial "NPEB90478"
+	releaseyear 2013
+	releasemonth 5
+	releaseday 17
+	users 1
+	rom (
+		name "Resident Evil Revelations Demo.iso"
+		serial "NPEB90478"
 	)
 )
 
@@ -96025,23 +96082,23 @@ game (
 )
 
 game (
-	name "Sega Classics - Sonic The Hedgehog"
+	name "Sega Classics - Sonic the Hedgehog"
 	serial "NPEB00478"
 	releaseyear 2014
 	users 1
 	rom (
-		name "Sega Classics - Sonic The Hedgehog.iso"
+		name "Sega Classics - Sonic the Hedgehog.iso"
 		serial "NPEB00478"
 	)
 )
 
 game (
-	name "Sega Classics - Sonic The Hedgehog 2"
+	name "Sega Classics - Sonic the Hedgehog 2"
 	serial "NPEB00477"
 	releaseyear 2015
 	users 1
 	rom (
-		name "Sega Classics - Sonic The Hedgehog 2.iso"
+		name "Sega Classics - Sonic the Hedgehog 2.iso"
 		serial "NPEB00477"
 	)
 )
@@ -101759,7 +101816,8 @@ game (
 game (
 	name "Snakeball"
 	serial "NPEA00037"
-	releaseyear 2021
+	developer "Ravn Studio"
+	releaseyear 2007
 	users 1
 	rom (
 		name "Snakeball.iso"
@@ -101770,7 +101828,8 @@ game (
 game (
 	name "Snakeball"
 	serial "NPJA00022"
-	releaseyear 2021
+	developer "Ravn Studio"
+	releaseyear 2007
 	users 1
 	rom (
 		name "Snakeball.iso"
@@ -101781,7 +101840,8 @@ game (
 game (
 	name "Snakeball"
 	serial "NPUA80072"
-	releaseyear 2021
+	developer "Ravn Studio"
+	releaseyear 2007
 	users 1
 	rom (
 		name "Snakeball.iso"
@@ -102741,52 +102801,6 @@ game (
 )
 
 game (
-	name "Sonic The Hedgehog (Europe)"
-	serial "BLES00028"
-	developer "Sonic Team"
-	publisher "Sega"
-	releaseyear 2007
-	releasemonth 3
-	releaseday 23
-	users 2
-	rom (
-		name "Sonic The Hedgehog (Europe).iso"
-		serial "BLES00028"
-	)
-)
-
-game (
-	name "Sonic The Hedgehog (Japan)"
-	serial "BLJM60006"
-	developer "Sonic Team"
-	publisher "Sega"
-	releaseyear 2006
-	releasemonth 12
-	releaseday 21
-	users 2
-	rom (
-		name "Sonic The Hedgehog (Japan).iso"
-		serial "BLJM60006"
-	)
-)
-
-game (
-	name "Sonic The Hedgehog (USA)"
-	serial "BLUS30008"
-	developer "Sonic Team"
-	publisher "Sega"
-	releaseyear 2007
-	releasemonth 1
-	releaseday 30
-	users 2
-	esrb_rating "E10+"
-	rom (
-		name "Sonic The Hedgehog (USA).iso"
-		serial "BLUS30008"
-	)
-)
-
-game (
 	name "Sonic The Hedgehog 2"
 	serial "NPUB30443"
 	releaseyear 2015
@@ -102794,17 +102808,6 @@ game (
 	rom (
 		name "Sonic The Hedgehog 2.iso"
 		serial "NPUB30443"
-	)
-)
-
-game (
-	name "Sonic The Hedgehog 4 - Episode I"
-	serial "NPEB00153"
-	releaseyear 2014
-	users 1
-	rom (
-		name "Sonic The Hedgehog 4 - Episode I.iso"
-		serial "NPEB00153"
 	)
 )
 
@@ -103029,6 +103032,52 @@ game (
 )
 
 game (
+	name "Sonic the Hedgehog (Europe)"
+	serial "BLES00028"
+	developer "Sonic Team"
+	publisher "Sega"
+	releaseyear 2007
+	releasemonth 3
+	releaseday 23
+	users 2
+	rom (
+		name "Sonic the Hedgehog (Europe).iso"
+		serial "BLES00028"
+	)
+)
+
+game (
+	name "Sonic the Hedgehog (Japan)"
+	serial "BLJM60006"
+	developer "Sonic Team"
+	publisher "Sega"
+	releaseyear 2006
+	releasemonth 12
+	releaseday 21
+	users 2
+	rom (
+		name "Sonic the Hedgehog (Japan).iso"
+		serial "BLJM60006"
+	)
+)
+
+game (
+	name "Sonic the Hedgehog (USA)"
+	serial "BLUS30008"
+	developer "Sonic Team"
+	publisher "Sega"
+	releaseyear 2007
+	releasemonth 1
+	releaseday 30
+	users 2
+	esrb_rating "E10+"
+	rom (
+		name "Sonic the Hedgehog (USA).iso"
+		serial "BLUS30008"
+	)
+)
+
+game (
 	name "Sonic the Hedgehog 2"
 	serial "NPJB00127"
 	releaseyear 2014
@@ -103036,6 +103085,17 @@ game (
 	rom (
 		name "Sonic the Hedgehog 2.iso"
 		serial "NPJB00127"
+	)
+)
+
+game (
+	name "Sonic the Hedgehog 4 - Episode I"
+	serial "NPEB00153"
+	releaseyear 2014
+	users 1
+	rom (
+		name "Sonic the Hedgehog 4 - Episode I.iso"
+		serial "NPEB00153"
 	)
 )
 
@@ -105829,10 +105889,13 @@ game (
 game (
 	name "Starhawk (USA)"
 	serial "BCUS98181"
-	developer "LightBox Interactive / SCEA"
-	publisher "sony"
+	developer "LightBox Interactive"
+	publisher "Sony Computer Entertainment"
 	releaseyear 2012
+	releasemonth 5
+	releaseday 8
 	users 1
+	esrb_rating "T"
 	rom (
 		name "Starhawk (USA).iso"
 		serial "BCUS98181"
@@ -114355,21 +114418,6 @@ game (
 
 game (
 	name "Tiger Woods PGA Tour 12 (Europe)"
-	serial "BLES01177"
-	developer "Electronic Arts"
-	publisher "Electronic Arts"
-	releaseyear 2011
-	releasemonth 3
-	releaseday 31
-	users 4
-	rom (
-		name "Tiger Woods PGA Tour 12 (Europe).iso"
-		serial "BLES01177"
-	)
-)
-
-game (
-	name "Tiger Woods PGA Tour 12 (Europe)"
 	serial "BLES01270"
 	developer "Electronic Arts"
 	publisher "Electronic Arts"
@@ -114446,6 +114494,21 @@ game (
 	rom (
 		name "Tiger Woods PGA Tour 12 - The Masters.iso"
 		serial "NPUB90544"
+	)
+)
+
+game (
+	name "Tiger Woods PGA Tour 12: The Masters (Europe)"
+	serial "BLES01177"
+	developer "Electronic Arts"
+	publisher "Electronic Arts"
+	releaseyear 2011
+	releasemonth 3
+	releaseday 31
+	users 4
+	rom (
+		name "Tiger Woods PGA Tour 12: The Masters (Europe).iso"
+		serial "BLES01177"
 	)
 )
 
@@ -117292,8 +117355,8 @@ game (
 	developer "Loose Cannon Studios"
 	publisher "Konami"
 	releaseyear 2009
-	releasemonth 5
-	releaseday 31
+	releasemonth 9
+	releaseday 29
 	users 2
 	esrb_rating "E10+"
 	rom (

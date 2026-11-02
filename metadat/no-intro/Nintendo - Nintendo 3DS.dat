@@ -1,7 +1,8 @@
 clrmamepro (
 	name "Nintendo - Nintendo 3DS"
 	description "Nintendo - Nintendo 3DS"
-	version "2026.01.17"
+	version "2026.10.07"
+	extensions "3ds|bcmdl|cia"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -34,6 +35,12 @@ game (
 	region "Europe"
 	serial "CTR-P-BMXP"
 	rom ( name "2in1 - Life with Horses 3D + My Baby Pet Hotel 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size 268435456 crc 5E3BDEC4 md5 ACB304928DEAC58F3E6821EB06CF9282 sha1 4E4A306FA32486ADA5A4EA85BF14A171D72D092D serial "CTR-P-BMXP" )
+)
+game (
+	name "2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl)"
+	region "Europe"
+	serial "CTR-P-BENP"
+	rom ( name "2in1 - Life with Horses 3D + My Western Horse 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size 268435456 crc 7CC75078 md5 5ED0AF43AE87B55CBAA8982E43A0BD35 sha1 911F480349CE36E417A335B22F02C4E04F6B5129 serial "CTR-P-BENP" )
 )
 game (
 	name "2in1 - My Vet Practice 3D - In the Country + My Baby Pet Hotel 3D (Europe) (En,Fr,De,Es,It,Nl)"
@@ -226,42 +233,6 @@ game (
 	region "USA"
 	serial "CTR-P-AD4E"
 	rom ( name "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA).3ds" size 134217728 crc 9AC27AFE md5 9E77F646CAAA38DBB2F2C15CC6440E56 sha1 5B8B160EDDA41010D80A276DB9C0FC300EDF7E99 serial "CTR-P-AD4E" )
-)
-game (
-	name "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA) (Beta)"
-	releaseyear "2012"
-	releasemonth "05"
-	releaseday "11"
-	region "USA"
-	serial "CTR-B-9DJN"
-	rom ( name "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA) (Beta) (2012-05-11).3ds" size 39018496 crc 97674399 md5 1A6E0B9EB0E09CEBE3BB6507774030D1 sha1 FDE1D3DC9E8E2965E783A43FCA45A6AFF90B25EF serial "CTR-B-9DJN" )
-)
-game (
-	name "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA) (Beta)"
-	releaseyear "2012"
-	releasemonth "06"
-	releaseday "19"
-	region "USA"
-	serial "CTR-B-9DJN"
-	rom ( name "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA) (Beta) (2012-06-19).3ds" size 152801280 crc B6CDF1D3 md5 7482A062B8ADFB0A88D0B8ABAB7795B8 sha1 AA4A76137F197FF94723B1523E93ED1569717313 serial "CTR-B-9DJN" )
-)
-game (
-	name "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA) (Beta)"
-	releaseyear "2012"
-	releasemonth "06"
-	releaseday "30"
-	region "USA"
-	serial "CTR-B-9DJN"
-	rom ( name "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA) (Beta) (2012-06-30).3ds" size 147582976 crc 8F4A2B6D md5 3DD0A926B856091661B624D43FAE63BE sha1 0652C79C019ABF47C49EAAB1DA760DD47EF6FFDF serial "CTR-B-9DJN" )
-)
-game (
-	name "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA) (Beta)"
-	releaseyear "2012"
-	releasemonth "07"
-	releaseday "20"
-	region "USA"
-	serial "CTR-B-9DJN"
-	rom ( name "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA) (Beta) (2012-07-20).3ds" size 183050240 crc FE374754 md5 2A71357C890CA56D40799D5C4E554977 sha1 FE5C97E602A4DE427BC7C1100711B2F62FB5C4C5 serial "CTR-B-9DJN" )
 )
 game (
 	name "Adventure Time - Hey Ice King! Why'd You Steal Our Garbage!! (USA) (Rev 1)"
@@ -1872,6 +1843,11 @@ game (
 	rom ( name "Dead or Alive - Dimensions (USA) (En,Ja,Fr,De,Es,It).3ds" size 2147483648 crc 8CE25C11 md5 7A52D74921CF2D198B2FADD3C88F0355 sha1 A6833CCB8F9061CEEF743AB73818B75D04F3F2D3 serial "CTR-P-ADDE" )
 )
 game (
+	name "Dead or Alive - Dimensions - Pack 1 (Europe) (DLC)"
+	region "Europe"
+	rom ( name "ZAC_DLC000.bcmdl" size 691968 crc 6DF87EEC md5 048C70AD80EC1B3D4477481410C6AFB3 sha1 CD3CCECDDE8E5937490852C5670D1A56C6791FEA )
+)
+game (
 	name "Deca Sporta - 3D Sports (Japan)"
 	region "Japan"
 	serial "CTR-P-ADEJ"
@@ -2068,15 +2044,6 @@ game (
 	region "Japan"
 	serial "CTR-P-ADYJ"
 	rom ( name "Disney Infinity (Japan).3ds" size 1073741824 crc DBF27805 md5 4E658F6E3ED2AB8BABC5776536A79970 sha1 FB05C8A41E1AE6D1ABB58ACFC453C1F4E24625B5 serial "CTR-P-ADYJ" )
-)
-game (
-	name "Disney Infinity (Japan) (Beta)"
-	releaseyear "2013"
-	releasemonth "10"
-	releaseday "09"
-	region "Japan"
-	serial "CTR-P-ADYJ"
-	rom ( name "Disney Infinity (Japan) (Beta) (2013-10-09).3ds" size 1073741824 crc 6D6DA668 md5 D4D108B21EECB26FB773442FA1AE9E5C sha1 BF75C4379DE9035FBEF02AAD629438FF833799D1 serial "CTR-P-ADYJ" )
 )
 game (
 	name "Disney Infinity - Toy Box Challenge (USA) (En,Fr,Es,Pt)"
@@ -2473,6 +2440,12 @@ game (
 	region "Japan"
 	serial "CTR-P-ATWJ"
 	rom ( name "Dragon Quest Monsters - Terry no Wonderland 3D (Japan).3ds" size 1073741824 crc AC0DB9D1 md5 2666971B4CEA194E54E5566B41B7B863 sha1 C2BBAED25D57A844BC2516774C28EBC85F49E7AE serial "CTR-P-ATWJ" )
+)
+game (
+	name "Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1)"
+	region "Japan"
+	serial "CTR-P-ATWJ"
+	rom ( name "Dragon Quest Monsters - Terry no Wonderland 3D (Japan) (Rev 1).3ds" size 1073741824 crc ACAB7721 md5 038299F26DAC97F8FF66BEC9D450916A sha1 7D0CAB0F61EC4AD5D86A2B8E67D2D8A2CF246CDD serial "CTR-P-ATWJ" )
 )
 game (
 	name "Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (Japan)"
@@ -3157,12 +3130,6 @@ game (
 	region "Japan"
 	serial "CTR-P-AFRJ"
 	rom ( name "Frogger 3D (Japan).3ds" size 134217728 crc 72B483DC md5 A976710FED041F4CD3D6D0D8B6EA1E25 sha1 CF1544D654A57F3B0378CACD1542C7F6576A6A6D serial "CTR-P-AFRJ" )
-)
-game (
-	name "Frogger 3D (Japan) (Beta)"
-	region "Japan"
-	serial "CTR-P-AFRJ"
-	rom ( name "Frogger 3D (Japan) (Beta).3ds" size 268435456 crc 5F144195 md5 FD652B22F45EE31726F7330339F85D9F sha1 616C95D3DA53BF839E0BEFFF1013499DCFCDC5F7 serial "CTR-P-AFRJ" )
 )
 game (
 	name "Frogger 3D (USA) (En,Fr,Es)"
@@ -3863,7 +3830,8 @@ game (
 game (
 	name "Hidden Expedition - Titanic (Europe) (En,Fr,De,Nl) (Rev 2)"
 	region "Europe"
-	rom ( name "Hidden Expedition - Titanic (Europe) (En,Fr,De,Nl) (Rev 2).3ds" size 134217728 crc 166F8B30 md5 46E917C03D09A336976838FFC993E155 sha1 397B23ABCC8148A88046CF685C0A9D0F77A5A2E4 )
+	serial "CTR-P-AASP"
+	rom ( name "Hidden Expedition - Titanic (Europe) (En,Fr,De,Nl) (Rev 2).3ds" size 134217728 crc 166F8B30 md5 46E917C03D09A336976838FFC993E155 sha1 397B23ABCC8148A88046CF685C0A9D0F77A5A2E4 serial "CTR-P-AASP" )
 )
 game (
 	name "Hidden, The (USA)"
@@ -4168,7 +4136,8 @@ game (
 game (
 	name "Imagine Collection (Europe) (En,Fr,De,Es,Nl,Sv,No,Da) (Rev 1)"
 	region "Europe"
-	rom ( name "Imagine Collection (Europe) (En,Fr,De,Es,Nl,Sv,No,Da) (Rev 1).3ds" size 1073741824 crc FF7666F8 md5 C27F6990DE3FD38B02A875E9843C382F sha1 0BC679209340C1992737659C297E6671CE6CCC0A )
+	serial "CTR-P-BCLP"
+	rom ( name "Imagine Collection (Europe) (En,Fr,De,Es,Nl,Sv,No,Da) (Rev 1).3ds" size 1073741824 crc FF7666F8 md5 C27F6990DE3FD38B02A875E9843C382F sha1 0BC679209340C1992737659C297E6671CE6CCC0A serial "CTR-P-BCLP" )
 )
 game (
 	name "Inazuma Eleven 1-2-3!! - Endou Mamoru Densetsu (Japan)"
@@ -4429,6 +4398,12 @@ game (
 	rom ( name "Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl).3ds" size 134217728 crc 475AE0AD md5 661AECFA9AF0FD3F93A3CD64C84BC350 sha1 24459AE336C856E5C7D885EE94AD2253F6475B73 serial "CTR-P-AJ4P" )
 )
 game (
+	name "Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)"
+	region "Europe"
+	serial "CTR-P-AJ4P"
+	rom ( name "Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).3ds" size 134217728 crc FA4F3702 md5 FC7524FAEBB81C1D9EDA94EDA056F076 sha1 D042FE9D108B23BDF668F434D7B1724E19022309 serial "CTR-P-AJ4P" )
+)
+game (
 	name "Jewel Quest Mysteries 3 - The Seventh Gate (Europe) (En,Fr,De,Es,It,Nl)"
 	region "Europe"
 	serial "CTR-P-AJQP"
@@ -4453,10 +4428,10 @@ game (
 	rom ( name "Jjangguneun Monmallyeo - Pantaseutik! Ujubyeol Daemoheom!! (Korea).3ds" size 536870912 crc 57FC4408 md5 4F7DAEEBC55C2E1C5AB2BEA70DE3A45B sha1 C9C30DF1C6434C8EE2DD7E41745F923809FFFD06 serial "CTR-P-ACHK" )
 )
 game (
-	name "Jukugo - Sokubiki Jiten Yomenai Kanji mo Raku Raku Yomeru (Japan) (Beta)"
-	region "Japan"
-	serial "CTR-P-AJXJ"
-	rom ( name "Jukugo - Sokubiki Jiten Yomenai Kanji mo Raku Raku Yomeru (Japan) (Beta).3ds" size 134217728 crc BB4F4730 md5 1F79D54245B494D82B3CDCA6FEC7F197 sha1 338721195F7050E0D67FE4F932E2CE0BEF5FE7CC serial "CTR-P-AJXJ" )
+	name "Johnny All-Star (USA) (Proto)"
+	region "USA"
+	serial "CTR-N-AA5E"
+	rom ( name "Johnny All-Star (USA) (Proto).3ds" size 2147483648 crc 3457FCC9 md5 F02C51D6D4BD4E7B00E683304130ACB4 sha1 9ED88BA88ABD003F0615100E35DD767011698F65 serial "CTR-N-AA5E" )
 )
 game (
 	name "Jukugo - Sokubiki Jiten Yomenai Kanji mo Raku Raku Yomeru (Japan) (Rev 1)"
@@ -4577,6 +4552,12 @@ game (
 	region "USA"
 	serial "CTR-P-AKDE"
 	rom ( name "Kid Icarus - Uprising (USA) (En,Fr,Es).3ds" size 2147483648 crc 2FAC4E91 md5 4C2516A9A0A3ECB4BB09BE00AEF125BB sha1 C17CE30DB3E395F4555C744E79B6F827F8B20C57 serial "CTR-P-AKDE" )
+)
+game (
+	name "Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1)"
+	region "USA"
+	serial "CTR-P-AKDE"
+	rom ( name "Kid Icarus - Uprising (USA) (En,Fr,Es) (Rev 1).3ds" size 2147483648 crc 8331957B md5 AA89E5B71A1D9BBA8743DB708F168295 sha1 9787171920C48C0459C9D147B9777BD390767746 serial "CTR-P-AKDE" )
 )
 game (
 	name "Kingdom Hearts 3D - Dream Drop Distance (Europe) (En,Fr,De)"
@@ -4713,7 +4694,8 @@ game (
 game (
 	name "Kobito Dukan - Kobito Kansatsu Set (Japan)"
 	region "Japan"
-	rom ( name "Kobito Dukan - Kobito Kansatsu Set (Japan).3ds" size 268435456 crc B252F208 md5 D9B18F059591AA2D95F33B7078878DC6 sha1 E4F572C429A00F7F92F77499D5D5281A09D254D5 )
+	serial "CTR-P-AKVJ"
+	rom ( name "Kobito Dukan - Kobito Kansatsu Set (Japan).3ds" size 268435456 crc B252F208 md5 D9B18F059591AA2D95F33B7078878DC6 sha1 E4F572C429A00F7F92F77499D5D5281A09D254D5 serial "CTR-P-AKVJ" )
 )
 game (
 	name "Kobito Dukan - Kobito Kansatsu Set (Japan) (Rev 1)"
@@ -4866,10 +4848,10 @@ game (
 	rom ( name "LBX - Little Battlers eXperience (USA) (En,Fr,Es).3ds" size 2147483648 crc DDBFA2E6 md5 3FEE0668AF267DF1C1A84F8678EBD0DE sha1 EF771283D2826FC71BE27F199D8D4F0E980AB41E serial "CTR-P-ADNE" )
 )
 game (
-	name "LEGO Batman 2 - DC Super Heroes (Canada) (En,Fr-CA)"
+	name "LEGO Batman 2 - DC Super Heroes (Canada) (En,Fr)"
 	region "Canada"
 	serial "ALBZ"
-	rom ( name "LEGO Batman 2 - DC Super Heroes (Canada) (En,Fr-CA).3ds" size 536870912 crc 101A802F md5 A34615459BDF3B001724D27370230E75 sha1 DB4B36653FD2B5B5D78E2EBDAFA895292967C9D7 serial "ALBZ" )
+	rom ( name "LEGO Batman 2 - DC Super Heroes (Canada) (En,Fr).3ds" size 536870912 crc 101A802F md5 A34615459BDF3B001724D27370230E75 sha1 DB4B36653FD2B5B5D78E2EBDAFA895292967C9D7 serial "ALBZ" )
 )
 game (
 	name "LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da)"
@@ -5222,7 +5204,8 @@ game (
 game (
 	name "LEGO Ninjago - L'Ombre de Ronin (France) (En,Fr,De,Es,It,Nl,Da) (Rev 1)"
 	region "France"
-	rom ( name "LEGO Ninjago - L'Ombre de Ronin (France) (En,Fr,De,Es,It,Nl,Da) (Rev 1).3ds" size 536870912 crc 09D62C97 md5 86F52C42F03ED3F23881792EB5D090D8 sha1 A6D43419682827E7AD4612D95F525C116A30CC42 )
+	serial "CTR-P-BLSY"
+	rom ( name "LEGO Ninjago - L'Ombre de Ronin (France) (En,Fr,De,Es,It,Nl,Da) (Rev 1).3ds" size 536870912 crc 09D62C97 md5 86F52C42F03ED3F23881792EB5D090D8 sha1 A6D43419682827E7AD4612D95F525C116A30CC42 serial "CTR-P-BLSY" )
 )
 game (
 	name "LEGO Ninjago - La Sombra de Ronin (Spain) (En,Fr,De,Es,It,Nl,Da)"
@@ -5397,14 +5380,6 @@ game (
 	region "Europe"
 	serial "CTR-P-BLWP"
 	rom ( name "LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da).3ds" size 1073741824 crc 6767E464 md5 70E0F7B4FF2913B62FD397E152823B89 sha1 D6DCEF3CF962925D6BC06978C34AEAD3160F9927 serial "CTR-P-BLWP" )
-)
-game (
-	name "LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da) (Beta)"
-	releaseyear "2016"
-	releasemonth "04"
-	releaseday "17"
-	region "Europe"
-	rom ( name "LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da) (Beta) (2016-04-17).3ds" size 536870912 crc 4C7D0589 md5 F23558650FDAFE95E063C349036660AB sha1 6A4AEF8B748D4354956CF3EC0A1E86CC25A36189 )
 )
 game (
 	name "LEGO Star Wars - The Force Awakens (USA)"
@@ -5809,6 +5784,12 @@ game (
 	rom ( name "Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es).3ds" size 134217728 crc 5572646C md5 16ED9E57D573D865CDD47BC8BEA74DE5 sha1 EC13F5EE0BF64DBE9ADAF6CA1EB2005B646ACFAF serial "CTR-P-AMZP" )
 )
 game (
+	name "Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es) (Rev 2)"
+	region "Europe"
+	serial "CTR-P-AMZP"
+	rom ( name "Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es) (Rev 2).3ds" size 134217728 crc C3CDF9FC md5 22F4F8FE6B65669128C863BA428575F4 sha1 244E5999818472587EF9072C4AF96DB65D9FD525 serial "CTR-P-AMZP" )
+)
+game (
 	name "Mahjong 3D - Warriors of the Emperor (USA)"
 	region "USA"
 	serial "CTR-P-AMZE"
@@ -5993,6 +5974,12 @@ game (
 	region "Japan"
 	serial "CTR-P-ACMJ"
 	rom ( name "Mario & Sonic at London Olympics (Japan) (Rev 1).3ds" size 536870912 crc 044B7ADA md5 3D4287EB3ED31E64A6BC03731BE791D8 sha1 3444808F0CD2A601E0FBA6CA3AA740949091658D serial "CTR-P-ACMJ" )
+)
+game (
+	name "Mario & Sonic at London Olympics (Japan) (Rev 2)"
+	region "Japan"
+	serial "CTR-P-ACMJ"
+	rom ( name "Mario & Sonic at London Olympics (Japan) (Rev 2).3ds" size 536870912 crc FF4E5160 md5 0610299767FD2940205055E368738892 sha1 AF013B58E5D6CE2AF0FEB8C5D04973EE700E8A95 serial "CTR-P-ACMJ" )
 )
 game (
 	name "Mario & Sonic at Rio Olympics (Japan) (Rev 1)"
@@ -6481,15 +6468,6 @@ game (
 	rom ( name "Michael Jackson - The Experience 3D (USA) (En,Fr,Es).3ds" size 536870912 crc 3BAF2E1D md5 F217DA2B6E1E973A3BF37D73CF874E00 sha1 114CC979DE71389BC28DF42B2673C2587119C4D9 serial "CTR-P-AMJE" )
 )
 game (
-	name "Mighty Switch Force! (USA) (Beta)"
-	releaseyear "2011"
-	releasemonth "08"
-	releaseday "16"
-	region "USA"
-	serial "CTR-B-9DJN"
-	rom ( name "Mighty Switch Force! (USA) (2011-08-16) (Beta).3ds" size 150632960 crc B3DE3DE8 md5 4F96B28912E2BC581B9F0CE3BF9FE83A sha1 6F97EA38B906F24F2456C4A86D7E78DAD7AB6810 serial "CTR-B-9DJN" )
-)
-game (
 	name "Miitopia (Europe) (En,Fr,De,Es,It,Nl)"
 	region "Europe"
 	serial "CTR-P-ADQP"
@@ -6826,10 +6804,10 @@ game (
 	rom ( name "My Farm 3D (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).3ds" size 134217728 crc B4BDB0DB md5 C3E3163C329F496C5C246528D046E791 sha1 54657B5C465D3EBE5C9E95A946C98E62788BF614 serial "CTR-P-ANJP" )
 )
 game (
-	name "My Foal 3D (Europe) (En,Fr,De,Es,It,Nl)"
+	name "My Foal 3D (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
 	serial "CTR-P-AM3Z"
-	rom ( name "My Foal 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size 134217728 crc ABC49784 md5 5FB33AD4C369235EDB8D8C6DE32A271C sha1 9C24163BE5605B9B33D4CED1B3DB81D917E95A9C serial "CTR-P-AM3Z" )
+	rom ( name "My Foal 3D (Europe) (En,Fr,De,Es,It).3ds" size 134217728 crc ABC49784 md5 5FB33AD4C369235EDB8D8C6DE32A271C sha1 9C24163BE5605B9B33D4CED1B3DB81D917E95A9C serial "CTR-P-AM3Z" )
 )
 game (
 	name "My Foal 3D (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)"
@@ -6866,6 +6844,12 @@ game (
 	region "Japan"
 	serial "CTR-P-BM7J"
 	rom ( name "My Melody - Negai ga Kanau Fushigi na Hako (Japan).3ds" size 134217728 crc 77FF1F5F md5 236E0B6491F8EB327E4C78928114A2D3 sha1 710B3BF33F072E9BD7CA6CBEC94FC54FD8CACA3E serial "CTR-P-BM7J" )
+)
+game (
+	name "My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto)"
+	region "Japan"
+	serial "CTR-P-BM7J"
+	rom ( name "My Melody - Negai ga Kanau Fushigi na Hako (Japan) (Proto).3ds" size 134217728 crc 5F7C299E md5 9A7FAEDE745477847BD326A33665D78A sha1 443B6ED12F355EDC7C0EF4FB4B7339921CF285AD serial "CTR-P-BM7J" )
 )
 game (
 	name "My Pet Puppy 3D (USA)"
@@ -7296,7 +7280,8 @@ game (
 game (
 	name "Nintendo presents - New Style Boutique 2 - Fashion Forward (Europe) (En,Fr,De,Es,It) (Rev 1)"
 	region "Europe"
-	rom ( name "Nintendo presents - New Style Boutique 2 - Fashion Forward (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size 1073741824 crc 867FC72F md5 9325511555E7B37017B889C2C11AAD0E sha1 D9D60DCFC2AC72A569AC2FD495CD53FA7475C65D )
+	serial "CTR-P-ECDP"
+	rom ( name "Nintendo presents - New Style Boutique 2 - Fashion Forward (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size 1073741824 crc 867FC72F md5 9325511555E7B37017B889C2C11AAD0E sha1 D9D60DCFC2AC72A569AC2FD495CD53FA7475C65D serial "CTR-P-ECDP" )
 )
 game (
 	name "Nintendo presents - New Style Boutique 3 - Styling Star (Europe) (En,Fr,De,Es,It,Nl)"
@@ -7483,6 +7468,12 @@ game (
 	region "USA"
 	serial "CTR-P-ADCE"
 	rom ( name "Nintendogs + Cats - Toy Poodle & New Friends (USA) (En,Fr,Es).3ds" size 536870912 crc 7C849740 md5 357D6CC8AA241E4813EE5178F62B8A11 sha1 25B804CDCF395EDEDF2755BEE01CC7C3ED183640 serial "CTR-P-ADCE" )
+)
+game (
+	name "Nintendogs + Cats - Toy Poodle & New Friends (USA) (En,Fr,Es) (Rev 1)"
+	region "USA"
+	serial "CTR-P-ADCE"
+	rom ( name "Nintendogs + Cats - Toy Poodle & New Friends (USA) (En,Fr,Es) (Rev 1).3ds" size 536870912 crc FCA322A1 md5 96272DB71658E0A0932FBCC336A8953A sha1 44F0062EC5B029AAC9DA50B78006D66AC3D2AE40 serial "CTR-P-ADCE" )
 )
 game (
 	name "Nintendogs + Cats - Toy Poodle & New Friends (USA) (En,Fr,Es) (Rev 2)"
@@ -8283,30 +8274,6 @@ game (
 	rom ( name "Pokemon Rumble World (Europe) (En,Fr,De,Es,It).3ds" size 536870912 crc 7F1B6D38 md5 483B8A01D4A2CEFBCD302539D6D99B15 sha1 31F5F21AF551BC723F5564CA0EAB7F72CEEFE22F serial "CTR-P-ECFA" )
 )
 game (
-	name "Pokemon Rumble World (Japan) (Beta) (branches-TPC20150716, 36474)"
-	region "Japan"
-	serial "CTR-N-KCFA"
-	rom ( name "Pokemon Rumble World (Japan) (Beta) (branches-TPC20150716, 36474).3ds" size 536870912 crc 000AE2D2 md5 4CEEF98A2DAA21978146CA5980C76397 sha1 0FC4C57661AC3856043C8DCC435C5AEBD9E25E37 serial "CTR-N-KCFA" )
-)
-game (
-	name "Pokemon Rumble World (Japan) (Beta) (branches-TPC20150716, 36474) (Alt)"
-	region "Japan"
-	serial "CTR-N-KCFA"
-	rom ( name "Pokemon Rumble World (Japan) (Beta) (branches-TPC20150716, 36474) (Alt).3ds" size 536870912 crc 7A246088 md5 C9E8CF9C1ADE54524E16ADA10C67FA3F sha1 3CE7418EA129F59924CAD4CB8BA28246904F6A66 serial "CTR-N-KCFA" )
-)
-game (
-	name "Pokemon Rumble World (Japan) (Beta) (trunk, 34356M)"
-	region "Japan"
-	serial "CTR-P-KCFJ"
-	rom ( name "Pokemon Rumble World (Japan) (Beta) (trunk, 34356M).3ds" size 268435456 crc 5CDF4382 md5 B8CAAC6D906DA229ECDA688BA7474070 sha1 65BDC2F98B7C51CA0662BD9540E920F887A7046D serial "CTR-P-KCFJ" )
-)
-game (
-	name "Pokemon Rumble World (Japan) (Beta) (trunk, 34961M)"
-	region "Japan"
-	serial "CTR-P-KCFA"
-	rom ( name "Pokemon Rumble World (Japan) (Beta) (trunk, 34961M).3ds" size 268435456 crc C548EB74 md5 B0DDFB02D592B9FAC38F7A54552E00B0 sha1 E933998074DCE5E9C7B1CC6FDA7BFA3CA63FDDA0 serial "CTR-P-KCFA" )
-)
-game (
 	name "Pokemon Rumble World (USA)"
 	region "USA"
 	serial "CTR-P-ECFA"
@@ -8675,7 +8642,8 @@ game (
 game (
 	name "Professeur Layton et le Masque des Miracles (France) (Rev 1)"
 	region "France"
-	rom ( name "Professeur Layton et le Masque des Miracles (France) (Rev 1).3ds" size 1073741824 crc EE3BDE23 md5 44F1EEDD9E748055E06E2FCAB3617680 sha1 73C2D1684265339FE4E847EA5B5E0D0278C3DB22 )
+	serial "CTR-P-AKKF"
+	rom ( name "Professeur Layton et le Masque des Miracles (France) (Rev 1).3ds" size 1073741824 crc EE3BDE23 md5 44F1EEDD9E748055E06E2FCAB3617680 sha1 73C2D1684265339FE4E847EA5B5E0D0278C3DB22 serial "CTR-P-AKKF" )
 )
 game (
 	name "Professor Layton and the Azran Legacy (Europe)"
@@ -8900,10 +8868,10 @@ game (
 	rom ( name "Puzzle & Dragons X - Ryuu no Shou (Japan).3ds" size 2147483648 crc 81EC87B6 md5 9A025DD6836DA8E9DED303AF5E32AAAD sha1 24D9D2A86C47440E03C7D57403391BE75500A110 serial "CTR-P-BPVJ" )
 )
 game (
-	name "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (Europe)"
+	name "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
 	serial "CTR-P-AZGP"
-	rom ( name "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (Europe).3ds" size 1073741824 crc 464121DB md5 29E6E150B1049B0B4F539AAEFCBA017C sha1 9F4DEC8FFB5B46CF32B256DAFA9BDBA10E4F6140 serial "CTR-P-AZGP" )
+	rom ( name "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (Europe) (En,Fr,De,Es,It).3ds" size 1073741824 crc 464121DB md5 29E6E150B1049B0B4F539AAEFCBA017C sha1 9F4DEC8FFB5B46CF32B256DAFA9BDBA10E4F6140 serial "CTR-P-AZGP" )
 )
 game (
 	name "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (USA)"
@@ -8998,7 +8966,8 @@ game (
 game (
 	name "Rabbids 3D (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (Rev 1)"
 	region "Europe"
-	rom ( name "Rabbids 3D (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (Rev 1).3ds" size 268435456 crc 24153AE6 md5 C36D440D52CE9ABF0D41B67CCE258CAC sha1 92759285A4F8792FECC5A9B83F09EED9ED7A1309 )
+	serial "CTR-P-ARBP"
+	rom ( name "Rabbids 3D (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (Rev 1).3ds" size 268435456 crc 24153AE6 md5 C36D440D52CE9ABF0D41B67CCE258CAC sha1 92759285A4F8792FECC5A9B83F09EED9ED7A1309 serial "CTR-P-ARBP" )
 )
 game (
 	name "Rabbids Rumble (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)"
@@ -9129,7 +9098,8 @@ game (
 game (
 	name "Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1)"
 	region "Europe"
-	rom ( name "Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1).3ds" size 536870912 crc ACD2D6D2 md5 7A96E63259D8DD77DB319B192676D2AB sha1 6E611F57728D109BB62983AA655CFD88FD3D1BFA )
+	serial "CTR-P-ARFP"
+	rom ( name "Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1).3ds" size 536870912 crc ACD2D6D2 md5 7A96E63259D8DD77DB319B192676D2AB sha1 6E611F57728D109BB62983AA655CFD88FD3D1BFA serial "CTR-P-ARFP" )
 )
 game (
 	name "Reel Fishing Paradise 3D (USA)"
@@ -9936,6 +9906,41 @@ game (
 	rom ( name "Shovel Knight (USA).3ds" size 268435456 crc 408BAF37 md5 4113CFF9EF48E0CE0E2D79F8A1FECA19 sha1 0C2263E89C38BB23BA8DA21760C2AC361AF668B1 serial "CTR-P-AKSE" )
 )
 game (
+	name "Shovel Knight - Treasure Trove (Europe, Australia) (v4.0A, v5200) (Update)"
+	region "Europe"
+	rom ( name "Shovel Knight - Treasure Trove (Europe, Australia) (v4.0A, v5200) (Update).cia" size 180630528 crc A5150357 md5 1AE12F054E235EEDE693230847498C7C sha1 DDD698D9BA3AF8E1BFC830C5B1E63F5728CD1DB4 )
+)
+game (
+	name "Shovel Knight - Treasure Trove (Europe, Australia) (v4.1, v6240) (Update)"
+	region "Europe"
+	rom ( name "Shovel Knight - Treasure Trove (Europe, Australia) (v4.1, v6240) (Update).cia" size 180675584 crc 3E7E51BE md5 0E9064A22CFEF45D654A1680AF7C9DF1 sha1 51A33C901B800F9EB301EC7AF5788A50C20613B8 )
+)
+game (
+	name "Shovel Knight - Treasure Trove (USA) (v4.0A, v4160) (Update)"
+	region "USA"
+	rom ( name "Shovel Knight - Treasure Trove (USA) (v4.0A, v4160) (Update).cia" size 180044800 crc CD4AF0F5 md5 D9BFF4ABDCD663E9392442B2ADEE5C89 sha1 559374D85A9538651EB2F990697F7EB381BD1C5B )
+)
+game (
+	name "Shovel Knight - Treasure Trove (USA) (v4.1, v5200) (Update)"
+	region "USA"
+	rom ( name "Shovel Knight - Treasure Trove (USA) (v4.1, v5200) (Update).cia" size 180089856 crc 0979C5D1 md5 5D933935324363107D4BDAC6106A7F3D sha1 C87E4AFD373738E501D758D9514E0DB4E75FFAD0 )
+)
+game (
+	name "Shovel Knight - Treasure Trove (eShop version) (Europe, Australia) (v4.0A, v6240) (Embedded Update)"
+	region "Europe"
+	rom ( name "Shovel Knight - Treasure Trove (eShop version) (Europe, Australia) (v4.0A, v6240) (Embedded Update).cia" size 248005632 crc D67C3387 md5 074C031B460C272819B81D93F0767746 sha1 ED7C8F7F8BFDF4F12A14E4A9250694E4EAFE6BF6 )
+)
+game (
+	name "Shovel Knight - Treasure Trove (eShop version) (Europe, Australia) (v4.1, v7280) (Embedded Update)"
+	region "Europe"
+	rom ( name "Shovel Knight - Treasure Trove (eShop version) (Europe, Australia) (v4.1, v7280) (Embedded Update).cia" size 248035648 crc E7FD5D40 md5 D52E8CEE7C9BEA868CEC0A5CB1C29D4C sha1 ACBA3151638350DEB2CAA23BC8F6E97629EFD653 )
+)
+game (
+	name "Shovel Knight - Treasure Trove (eShop version) (USA) (v4.0A, v7280) (Embedded Update)"
+	region "USA"
+	rom ( name "Shovel Knight - Treasure Trove (eShop version) (USA) (v4.0A, v7280) (Embedded Update).cia" size 247419904 crc B2C82273 md5 87F3B8725F0659603229AF74682AED54 sha1 0BA103429C1036D32C6138DC5B10010BE9AB3236 )
+)
+game (
 	name "Simple Series for Nintendo 3DS Vol. 1 - The Mahjong (Japan)"
 	region "Japan"
 	serial "CTR-P-AAUJ"
@@ -10476,10 +10481,10 @@ game (
 	rom ( name "Style Savvy - Trendsetters (USA).3ds" size 2147483648 crc 0DEB5695 md5 3E5F8E3E91C6F0673FC0F6A65ECF69E6 sha1 9FE57F5BE4C2E4170236EF5156AE49FCFC96D48A serial "CTR-P-ACLE" )
 )
 game (
-	name "Sudoku + 7 Other Complex Puzzles by Nikoli (Europe)"
+	name "Sudoku + 7 Other Complex Puzzles by Nikoli (Europe) (En,Fr,De,Es,It)"
 	region "Europe"
 	serial "CTR-P-ANQP"
-	rom ( name "Sudoku + 7 Other Complex Puzzles by Nikoli (Europe).3ds" size 134217728 crc 641880B4 md5 C86B669ED62DE50213706F46C04A098A sha1 08AE8F8DB032A9DD2AB15B0A5F54209E7F8AB6A5 serial "CTR-P-ANQP" )
+	rom ( name "Sudoku + 7 Other Complex Puzzles by Nikoli (Europe) (En,Fr,De,Es,It).3ds" size 134217728 crc 641880B4 md5 C86B669ED62DE50213706F46C04A098A sha1 08AE8F8DB032A9DD2AB15B0A5F54209E7F8AB6A5 serial "CTR-P-ANQP" )
 )
 game (
 	name "Sudoku - The Puzzle Game Collection (Europe) (En,Fr,De,Es,It)"
@@ -10518,12 +10523,6 @@ game (
 	rom ( name "Sumikko Gurashi - Koko, Dokonan Desu (Japan).3ds" size 536870912 crc D6C8D0D2 md5 0A695ED7885D39E36BCEC2811E4C73E8 sha1 72799CCE59E27C33185D2813EB0AA9303B309250 serial "CTR-P-AWHJ" )
 )
 game (
-	name "Sumikko Gurashi - Koko, Dokonan Desu (Japan) (Beta)"
-	region "Japan"
-	serial "CTR-P-AWHJ"
-	rom ( name "Sumikko Gurashi - Koko, Dokonan Desu (Japan) (Beta).3ds" size 536870912 crc BAD822BE md5 6CEE2BA9CBE69ABD188493B1D06E74C9 sha1 FD237CBAF0FF59C4E81F515E0B00B9C1CAF29AF1 serial "CTR-P-AWHJ" )
-)
-game (
 	name "Sumikko Gurashi - Mura o Tsukurundesu (Japan)"
 	region "Japan"
 	serial "CTR-P-BVSJ"
@@ -10558,12 +10557,6 @@ game (
 	region "USA"
 	serial "CTR-P-ASBE"
 	rom ( name "Super Black Bass 3D (USA).3ds" size 268435456 crc 0C63D789 md5 2E3F5E327CAAA714C55BF7E197157C73 sha1 C7331FE56008F43AF9F74EB17CC8714F96D7C68D serial "CTR-P-ASBE" )
-)
-game (
-	name "Super Mario (USA) (Beta) (E3 2011 demo)"
-	region "USA"
-	serial "CTR-P-CTAP"
-	rom ( name "Super Mario (USA) (Beta) (E3 2011 demo).3ds" size 2147483648 crc 9E40F11C md5 A6B0F31A165FCCEE1793AC2EAEC394F7 sha1 FF51F2447E3FD076E682EF75E50E0E69600D6D3F serial "CTR-P-CTAP" )
 )
 game (
 	name "Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)"
@@ -10966,6 +10959,31 @@ game (
 	region "Japan"
 	serial "CTR-P-BT8J"
 	rom ( name "Taiko no Tatsujin - Doko Don! Mystery Adventure (Japan).3ds" size 536870912 crc ACEEFE2B md5 73F64296331B9B12C8570B9E4762CA09 sha1 44CD8042E35E85BED9E947869CAE8157F57C1DBA serial "CTR-P-BT8J" )
+)
+game (
+	name "Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 1 (Japan) (DLC)"
+	region "Japan"
+	rom ( name "Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 1 (Japan) (DLC).cia" size 132376448 crc 7417EC06 md5 D5CBB73E9D72010BCFE44C95EC37BD3A sha1 4332D7163A4C423E1DE09C17B0EF4880B2D86EDA )
+)
+game (
+	name "Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 2 (Japan) (DLC)"
+	region "Japan"
+	rom ( name "Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 2 (Japan) (DLC).cia" size 169211968 crc 0204A018 md5 8681BC4F4BD56114A5A4F81674832FA5 sha1 42373CC7AC0609F939F22A0916AF5208E7F96510 )
+)
+game (
+	name "Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 3 (Japan) (DLC)"
+	region "Japan"
+	rom ( name "Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 3 (Japan) (DLC).cia" size 158734528 crc 43C46267 md5 6F895F453D85DB5AC29605CD363A7D17 sha1 88BC79C509BE5C68F32AA71275E6635DA96DAFD5 )
+)
+game (
+	name "Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 4 (Japan) (DLC)"
+	region "Japan"
+	rom ( name "Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 4 (Japan) (DLC).cia" size 159561920 crc 790143BF md5 6912677144514A57ECBDA5B0E6E27833 sha1 69F1D3411255FBE8D7131E7F253E31E915AAB5CF )
+)
+game (
+	name "Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 5 (Japan) (DLC)"
+	region "Japan"
+	rom ( name "Taiko no Tatsujin - Doko Don! Mystery Adventure - Pack 5 (Japan) (DLC).cia" size 175720640 crc 71C02419 md5 A4432A73398B0D0B7DC4F18535FB786A sha1 8B070D9513849DA0FD1F5C8E444F774E0422573E )
 )
 game (
 	name "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (Japan)"
@@ -11687,12 +11705,6 @@ game (
 	rom ( name "Wan Nyan Doubutsu Byouin - Suteki na Juui-san ni Narou! (Japan).3ds" size 536870912 crc 4053E4D5 md5 25FB699EA79B632ADFADBE34CC789E39 sha1 835C0623F3CFA3A42D4A6C05D1853219530AC24C serial "CTR-P-AWJJ" )
 )
 game (
-	name "Wan Nyan Doubutsu Byouin - Suteki na Juui-san ni Narou! (Japan) (Beta)"
-	region "Japan"
-	serial "CTR-P-AWJJ"
-	rom ( name "Wan Nyan Doubutsu Byouin - Suteki na Juui-san ni Narou! (Japan) (Beta).3ds" size 536870912 crc F8EBF34A md5 92895A59E2882B71F9B47B00D67D5691 sha1 722A15A347CAF5626503C4EDC313F8CFF1383DBB serial "CTR-P-AWJJ" )
-)
-game (
 	name "Wan Nyan Doubutsu Byouin 2 (Japan) (Rev 1)"
 	region "Japan"
 	serial "CTR-P-AWNJ"
@@ -12173,10 +12185,22 @@ game (
 	rom ( name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan).3ds" size 2147483648 crc 2AC9CB11 md5 8D59D06675AE643F9C893D137E547477 sha1 466B62624DE4941FB66B8C77E08D54C6E0002A79 serial "CTR-P-BYMJ" )
 )
 game (
+	name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan) (Rev 1)"
+	region "Japan"
+	serial "CTR-P-BYMJ"
+	rom ( name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan) (Rev 1).3ds" size 2147483648 crc 01D88F59 md5 ED700771917BEC779F6CCF9884EBA6A8 sha1 D27F6E53BC6A38D25119F05D7AB570842E7A03A6 serial "CTR-P-BYMJ" )
+)
+game (
 	name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan)"
 	region "Japan"
 	serial "CTR-P-BYNJ"
 	rom ( name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan).3ds" size 2147483648 crc 9C270055 md5 8D7D49E172D41FBEFA1EACEEDC76D6F9 sha1 AAD6B8F4D7386C07FE380E03D8EB4670D5B34259 serial "CTR-P-BYNJ" )
+)
+game (
+	name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan) (Rev 1)"
+	region "Japan"
+	serial "CTR-P-BYNJ"
+	rom ( name "Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan) (Rev 1).3ds" size 2147483648 crc 728DB131 md5 350CC639085AF4F7C5050794C5BEE30D sha1 CBB13159916D6A204F8AAFD52462553BFBFD0DBF serial "CTR-P-BYNJ" )
 )
 game (
 	name "Young Justice - Legacy (USA) (En,Fr,Es)"

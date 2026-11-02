@@ -6,37 +6,6 @@ clrmamepro (
 )
 
 game (
-	name " Disney Infinity 2.0: Play Without Limits (Europe)"
-	serial "ADRP4Q"
-	developer "Avalanche Software (USA)"
-	publisher "Disney Interactive"
-	releaseyear 2014
-	releasemonth 9
-	releaseday 18
-	users 4
-	rom (
-		name " Disney Infinity 2.0: Play Without Limits (Europe).wux"
-		serial "ADRP4Q"
-	)
-)
-
-game (
-	name " Giana Sisters: Twisted Dreams - Director's Cut (USA)"
-	serial "WGSZCX"
-	developer "Black Forest Games"
-	publisher "Black Forest Games"
-	releaseyear 2015
-	releasemonth 9
-	releaseday 29
-	users 1
-	esrb_rating "E"
-	rom (
-		name " Giana Sisters: Twisted Dreams - Director's Cut (USA).wux"
-		serial "WGSZCX"
-	)
-)
-
-game (
 	name "(Event Preview) Extreme Exorcism (Europe)"
 	serial "SNKP"
 	developer "Golden Ruby Games "
@@ -382,21 +351,6 @@ game (
 	rom (
 		name "1001 Spikes (USA).wux"
 		serial "WM9E"
-	)
-)
-
-game (
-	name "1080º Snowboarding (Europe)"
-	serial "NAHP"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 12
-	releaseday 31
-	users 2
-	rom (
-		name "1080º Snowboarding (Europe).wux"
-		serial "NAHP"
 	)
 )
 
@@ -803,6 +757,38 @@ game (
 )
 
 game (
+	name "ABC Wipeout 3 (USA)"
+	serial "AW3E52"
+	developer "Activision"
+	publisher "Activision"
+	releaseyear 2012
+	releasemonth 9
+	releaseday 25
+	users 4
+	esrb_rating "E10+"
+	rom (
+		name "ABC Wipeout 3 (USA).wux"
+		serial "AW3E52"
+	)
+)
+
+game (
+	name "ABC Wipeout: Create & Crash (USA)"
+	serial "AW4E52"
+	developer "Behaviour Interactive"
+	publisher "Activision"
+	releaseyear 2013
+	releasemonth 10
+	releaseday 14
+	users 4
+	esrb_rating "E10+"
+	rom (
+		name "ABC Wipeout: Create & Crash (USA).wux"
+		serial "AW4E52"
+	)
+)
+
+game (
 	name "ACE - Alien Cleanup Elite (USA)"
 	serial "AE5E"
 	developer "Matthew Flewelling "
@@ -921,21 +907,6 @@ game (
 	rom (
 		name "AVOIDER (USA).wux"
 		serial "AVRE"
-	)
-)
-
-game (
-	name "AXELAY (Europe)"
-	serial "JCZP"
-	developer "Konami "
-	publisher "Konami "
-	releaseyear 2015
-	releasemonth 1
-	releaseday 15
-	users 1
-	rom (
-		name "AXELAY (Europe).wux"
-		serial "JCZP"
 	)
 )
 
@@ -1246,7 +1217,7 @@ game (
 )
 
 game (
-	name "Adventure Time: Explore the Dungeon Because I DON'T KNOW! (USA)"
+	name "Adventure Time: Explore the Dungeon Because I Don't Know! (USA)"
 	serial "ADVEG9"
 	developer "WayForward"
 	publisher "D3 Publisher"
@@ -1256,7 +1227,7 @@ game (
 	users 4
 	esrb_rating "E10+"
 	rom (
-		name "Adventure Time: Explore the Dungeon Because I DON'T KNOW! (USA).wux"
+		name "Adventure Time: Explore the Dungeon Because I Don't Know! (USA).wux"
 		serial "ADVEG9"
 	)
 )
@@ -1744,7 +1715,7 @@ game (
 	releaseyear 2013
 	releasemonth 8
 	releaseday 8
-	users 4
+	users 1
 	rom (
 		name "Animal Crossing Plaza.wux"
 		serial "ADBA"
@@ -1797,6 +1768,37 @@ game (
 )
 
 game (
+	name "Animal Crossing: Amiibo Festival (Europe)"
+	serial "AALP01"
+	developer "Nd Cube"
+	publisher "Nintendo"
+	releaseyear 2015
+	releasemonth 11
+	releaseday 20
+	users 4
+	rom (
+		name "Animal Crossing: Amiibo Festival (Europe).wux"
+		serial "AALP01"
+	)
+)
+
+game (
+	name "Animal Crossing: Amiibo Festival (USA)"
+	serial "AALE01"
+	developer "Nd Cube"
+	publisher "Nintendo"
+	releaseyear 2015
+	releasemonth 11
+	releaseday 13
+	users 4
+	esrb_rating "E"
+	rom (
+		name "Animal Crossing: Amiibo Festival (USA).wux"
+		serial "AALE01"
+	)
+)
+
+game (
 	name "Animal Crossing: Wild World (Europe)"
 	serial "DAYP"
 	developer "Nintendo"
@@ -1838,52 +1840,6 @@ game (
 	rom (
 		name "Animal Crossing: Wild World (USA).wux"
 		serial "DAYE"
-	)
-)
-
-game (
-	name "Animal Crossing: amiibo Festival (Europe)"
-	serial "AALP01"
-	developer "Nd Cube"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 11
-	releaseday 20
-	users 4
-	rom (
-		name "Animal Crossing: amiibo Festival (Europe).wux"
-		serial "AALP01"
-	)
-)
-
-game (
-	name "Animal Crossing: amiibo Festival (Japan)"
-	serial "AALJ01"
-	developer "Nd Cube"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 11
-	releaseday 21
-	users 4
-	rom (
-		name "Animal Crossing: amiibo Festival (Japan).wux"
-		serial "AALJ01"
-	)
-)
-
-game (
-	name "Animal Crossing: amiibo Festival (USA)"
-	serial "AALE01"
-	developer "Nd Cube"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 11
-	releaseday 13
-	users 4
-	esrb_rating "E"
-	rom (
-		name "Animal Crossing: amiibo Festival (USA).wux"
-		serial "AALE01"
 	)
 )
 
@@ -2641,6 +2597,21 @@ game (
 )
 
 game (
+	name "Axelay (Europe)"
+	serial "JCZP"
+	developer "Konami "
+	publisher "Konami "
+	releaseyear 2015
+	releasemonth 1
+	releaseday 15
+	users 1
+	rom (
+		name "Axelay (Europe).wux"
+		serial "JCZP"
+	)
+)
+
+game (
 	name "Axelay (Japan)"
 	serial "JCZJ"
 	developer "Konami"
@@ -3174,7 +3145,7 @@ game (
 )
 
 game (
-	name "Barbie and Her Sisters: Puppy Rescue (Europe)"
+	name "Barbie & Her Sisters: Puppy Rescue (Europe)"
 	serial "BRQPVZ"
 	developer "Torus Games"
 	publisher "Little Orbit"
@@ -3183,13 +3154,13 @@ game (
 	releaseday 20
 	users 1
 	rom (
-		name "Barbie and Her Sisters: Puppy Rescue (Europe).wux"
+		name "Barbie & Her Sisters: Puppy Rescue (Europe).wux"
 		serial "BRQPVZ"
 	)
 )
 
 game (
-	name "Barbie and Her Sisters: Puppy Rescue (USA)"
+	name "Barbie & Her Sisters: Puppy Rescue (USA)"
 	serial "BRQEVZ"
 	developer "Torus Games"
 	publisher "Little Orbit"
@@ -3199,13 +3170,13 @@ game (
 	users 1
 	esrb_rating "E"
 	rom (
-		name "Barbie and Her Sisters: Puppy Rescue (USA).wux"
+		name "Barbie & Her Sisters: Puppy Rescue (USA).wux"
 		serial "BRQEVZ"
 	)
 )
 
 game (
-	name "Barbie: Dreamhouse Party (Europe)"
+	name "Barbie Dreamhouse Party (Europe)"
 	serial "ABBPVZ"
 	developer "Torus Games"
 	publisher "Little Orbit"
@@ -3214,13 +3185,13 @@ game (
 	releaseday 22
 	users 4
 	rom (
-		name "Barbie: Dreamhouse Party (Europe).wux"
+		name "Barbie Dreamhouse Party (Europe).wux"
 		serial "ABBPVZ"
 	)
 )
 
 game (
-	name "Barbie: Dreamhouse Party (USA)"
+	name "Barbie Dreamhouse Party (USA)"
 	serial "ABBEVZ"
 	developer "Torus Games"
 	publisher "Little Orbit"
@@ -3230,7 +3201,7 @@ game (
 	users 4
 	esrb_rating "E"
 	rom (
-		name "Barbie: Dreamhouse Party (USA).wux"
+		name "Barbie Dreamhouse Party (USA).wux"
 		serial "ABBEVZ"
 	)
 )
@@ -3314,7 +3285,7 @@ game (
 )
 
 game (
-	name "Batman Arkham City: Armored Edition (Japan)"
+	name "Batman: Arkham City: Armored Edition (Japan)"
 	serial "ABTJWR"
 	developer "Rocksteady"
 	publisher "Warner Bros. Interactive Entertainment Inc."
@@ -3323,13 +3294,13 @@ game (
 	releaseday 8
 	users 1
 	rom (
-		name "Batman Arkham City: Armored Edition (Japan).wux"
+		name "Batman: Arkham City: Armored Edition (Japan).wux"
 		serial "ABTJWR"
 	)
 )
 
 game (
-	name "Batman Arkham City: Armored Edition (USA)"
+	name "Batman: Arkham City: Armored Edition (USA)"
 	serial "ABTEWR"
 	developer "Rocksteady"
 	publisher "Warner Bros. Interactive Entertainment Inc."
@@ -3339,13 +3310,13 @@ game (
 	users 1
 	esrb_rating "T"
 	rom (
-		name "Batman Arkham City: Armored Edition (USA).wux"
+		name "Batman: Arkham City: Armored Edition (USA).wux"
 		serial "ABTEWR"
 	)
 )
 
 game (
-	name "Batman Arkham City: Armoured Edition (Europe)"
+	name "Batman: Arkham City: Armoured Edition (Europe)"
 	serial "ABTPWR"
 	developer "Rocksteady"
 	publisher "Warner Bros. Interactive Entertainment Inc."
@@ -3354,7 +3325,7 @@ game (
 	releaseday 30
 	users 1
 	rom (
-		name "Batman Arkham City: Armoured Edition (Europe).wux"
+		name "Batman: Arkham City: Armoured Edition (Europe).wux"
 		serial "ABTPWR"
 	)
 )
@@ -3894,7 +3865,7 @@ game (
 )
 
 game (
-	name "BioHazard Revelations: Unveiled Edition (Japan)"
+	name "Biohazard: Revelations: Unveiled Edition (Japan)"
 	serial "ABHJ08"
 	developer "Capcom"
 	publisher "Capcom"
@@ -3903,7 +3874,7 @@ game (
 	releaseday 23
 	users 2
 	rom (
-		name "BioHazard Revelations: Unveiled Edition (Japan).wux"
+		name "Biohazard: Revelations: Unveiled Edition (Japan).wux"
 		serial "ABHJ08"
 	)
 )
@@ -4664,21 +4635,6 @@ game (
 	rom (
 		name "Booty Diver (USA).wux"
 		serial "BDJE"
-	)
-)
-
-game (
-	name "Brain Age: Train Your Brain in Minutes a Day! (Europe)"
-	serial "DAAP"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 6
-	releaseday 25
-	users 1
-	rom (
-		name "Brain Age: Train Your Brain in Minutes a Day! (Europe).wux"
-		serial "DAAP"
 	)
 )
 
@@ -5514,7 +5470,7 @@ game (
 game (
 	name "Call of Duty: Ghosts (Europe)"
 	serial "ACPP52"
-	developer "treyarc, infinity ward, Raven, Neversoft, DemonWare, havoc, Bink Video"
+	developer "treyarch, infinity ward, Raven, Neversoft, DemonWare"
 	publisher "Activision"
 	releaseyear 2013
 	releasemonth 11
@@ -7702,6 +7658,21 @@ game (
 )
 
 game (
+	name "Dairantou Smash Brothers for Wii U (Japan)"
+	serial "AXFJ01"
+	developer "Sora Ltd. / Bandai Namco Studios Inc."
+	publisher "Nintendo"
+	releaseyear 2014
+	releasemonth 12
+	releaseday 6
+	users 8
+	rom (
+		name "Dairantou Smash Brothers for Wii U (Japan).wux"
+		serial "AXFJ01"
+	)
+)
+
+game (
 	name "Daiundoukai Yuke Downtown Nekketsu It (Japan)"
 	serial "FAQJ"
 	publisher "Arc System Works"
@@ -7728,37 +7699,6 @@ game (
 	rom (
 		name "Dare Up Adrenaline (USA).wux"
 		serial "BDUE"
-	)
-)
-
-game (
-	name "Darksiders - Warmastered Edition (Europe)"
-	serial "BEDP6V"
-	developer "KAIKO"
-	publisher "Nordic Games"
-	releaseyear 2017
-	releasemonth 5
-	releaseday 23
-	users 1
-	rom (
-		name "Darksiders - Warmastered Edition (Europe).wux"
-		serial "BEDP6V"
-	)
-)
-
-game (
-	name "Darksiders - Warmastered Edition (USA)"
-	serial "BEDE6V"
-	developer "KAIKO"
-	publisher "Nordic Games"
-	releaseyear 2017
-	releasemonth 5
-	releaseday 23
-	users 1
-	esrb_rating "M"
-	rom (
-		name "Darksiders - Warmastered Edition (USA).wux"
-		serial "BEDE6V"
 	)
 )
 
@@ -7790,6 +7730,37 @@ game (
 	rom (
 		name "Darksiders II (USA).wux"
 		serial "AD2E78"
+	)
+)
+
+game (
+	name "Darksiders: Warmastered Edition (Europe)"
+	serial "BEDP6V"
+	developer "KAIKO"
+	publisher "Nordic Games"
+	releaseyear 2017
+	releasemonth 5
+	releaseday 23
+	users 1
+	rom (
+		name "Darksiders: Warmastered Edition (Europe).wux"
+		serial "BEDP6V"
+	)
+)
+
+game (
+	name "Darksiders: Warmastered Edition (USA)"
+	serial "BEDE6V"
+	developer "KAIKO"
+	publisher "Nordic Games"
+	releaseyear 2017
+	releasemonth 5
+	releaseday 23
+	users 1
+	esrb_rating "M"
+	rom (
+		name "Darksiders: Warmastered Edition (USA).wux"
+		serial "BEDE6V"
 	)
 )
 
@@ -8077,7 +8048,7 @@ game (
 )
 
 game (
-	name "Deus Ex: Human Revolution - Director's Cut (Europe)"
+	name "Deus Ex: Human Revolution: Director's Cut (Europe)"
 	serial "ADXPGD"
 	developer "Eidos-Montreal"
 	publisher "Square-Enix"
@@ -8086,13 +8057,13 @@ game (
 	releaseday 25
 	users 1
 	rom (
-		name "Deus Ex: Human Revolution - Director's Cut (Europe).wux"
+		name "Deus Ex: Human Revolution: Director's Cut (Europe).wux"
 		serial "ADXPGD"
 	)
 )
 
 game (
-	name "Deus Ex: Human Revolution - Director's Cut (USA)"
+	name "Deus Ex: Human Revolution: Director's Cut (USA)"
 	serial "ADXEGD"
 	developer "Eidos-Montreal"
 	publisher "Square-Enix"
@@ -8102,7 +8073,7 @@ game (
 	users 1
 	esrb_rating "M"
 	rom (
-		name "Deus Ex: Human Revolution - Director's Cut (USA).wux"
+		name "Deus Ex: Human Revolution: Director's Cut (USA).wux"
 		serial "ADXEGD"
 	)
 )
@@ -8231,6 +8202,7 @@ game (
 game (
 	name "Devil's Third (Japan)"
 	serial "YDNJ"
+	developer "Valhalla Game Studios"
 	publisher "Nintendo"
 	users 1
 	rom (
@@ -8456,6 +8428,21 @@ game (
 )
 
 game (
+	name "Disney Epic Mickey 2: Futatsu no Chikara (Japan)"
+	serial "AEMJ91"
+	developer "Junction Point"
+	publisher "Disney Interactive"
+	releaseyear 2013
+	releasemonth 9
+	releaseday 26
+	users 2
+	rom (
+		name "Disney Epic Mickey 2: Futatsu no Chikara (Japan).wux"
+		serial "AEMJ91"
+	)
+)
+
+game (
 	name "Disney Epic Mickey 2: The Power of Two (Europe)"
 	serial "AEMP4Q"
 	developer "Junction Point"
@@ -8497,21 +8484,6 @@ game (
 	rom (
 		name "Disney Epic Mickey 2: The Power of Two (Europe).wux"
 		serial "AEMX4Q"
-	)
-)
-
-game (
-	name "Disney Epic Mickey 2: The Power of Two (Japan)"
-	serial "AEMJ91"
-	developer "Junction Point"
-	publisher "Disney Interactive"
-	releaseyear 2013
-	releasemonth 9
-	releaseday 26
-	users 2
-	rom (
-		name "Disney Epic Mickey 2: The Power of Two (Japan).wux"
-		serial "AEMJ91"
 	)
 )
 
@@ -8564,6 +8536,7 @@ game (
 game (
 	name "Disney Infinity (Japan)"
 	serial "ADSJAF"
+	developer "Avalanche Software"
 	publisher "Namco"
 	releaseyear 2013
 	releasemonth 11
@@ -8592,21 +8565,6 @@ game (
 )
 
 game (
-	name "Disney Infinity 2.0 Edition (Marvel Super Heroes) (Europe)"
-	serial "ADRZ4Q"
-	developer "Avalanche Software (USA)"
-	publisher "Disney Interactive"
-	releaseyear 2014
-	releasemonth 11
-	releaseday 6
-	users 4
-	rom (
-		name "Disney Infinity 2.0 Edition (Marvel Super Heroes) (Europe).wux"
-		serial "ADRZ4Q"
-	)
-)
-
-game (
 	name "Disney Infinity 2.0 Edition (USA)"
 	serial "ADRE4Q"
 	developer "Avalanche Software (USA)"
@@ -8623,17 +8581,32 @@ game (
 )
 
 game (
-	name "Disney Infinity 3.0 (Europe)"
-	serial "BD3P4Q"
-	developer "Avalanche Software (USA), Ninja Theory, Sumo Digital, United Front Games"
+	name "Disney Infinity 2.0: Play Without Limits (Europe)"
+	serial "ADRP4Q"
+	developer "Avalanche Software (USA)"
 	publisher "Disney Interactive"
-	releaseyear 2015
-	releasemonth 8
-	releaseday 28
+	releaseyear 2014
+	releasemonth 9
+	releaseday 18
 	users 4
 	rom (
-		name "Disney Infinity 3.0 (Europe).wux"
-		serial "BD3P4Q"
+		name "Disney Infinity 2.0: Play Without Limits (Europe).wux"
+		serial "ADRP4Q"
+	)
+)
+
+game (
+	name "Disney Infinity 2.0: Play Without Limits (Europe)"
+	serial "ADRZ4Q"
+	developer "Avalanche Software (USA)"
+	publisher "Disney Interactive"
+	releaseyear 2014
+	releasemonth 11
+	releaseday 6
+	users 4
+	rom (
+		name "Disney Infinity 2.0: Play Without Limits (Europe).wux"
+		serial "ADRZ4Q"
 	)
 )
 
@@ -8653,7 +8626,7 @@ game (
 )
 
 game (
-	name "Disney Infinity 3.0 (USA)"
+	name "Disney Infinity 3.0 Edition (USA)"
 	serial "BD3E4Q"
 	developer "Avalanche Software (USA), Ninja Theory, Sumo Digital, United Front Games"
 	publisher "Disney Interactive"
@@ -8663,8 +8636,38 @@ game (
 	users 4
 	esrb_rating "E10+"
 	rom (
-		name "Disney Infinity 3.0 (USA).wux"
+		name "Disney Infinity 3.0 Edition (USA).wux"
 		serial "BD3E4Q"
+	)
+)
+
+game (
+	name "Disney Infinity 3.0: Play Without Limits (Europe)"
+	serial "BD3P4Q"
+	developer "Avalanche Software (USA), Ninja Theory, Sumo Digital, United Front Games"
+	publisher "Disney Interactive"
+	releaseyear 2015
+	releasemonth 8
+	releaseday 28
+	users 2
+	rom (
+		name "Disney Infinity 3.0: Play Without Limits (Europe).wux"
+		serial "BD3P4Q"
+	)
+)
+
+game (
+	name "Disney Infinity 3.0: Play Without Limits (Europe)"
+	serial "BD3Z4Q"
+	developer "Avalanche Software (USA), Ninja Theory, Sumo Digital, United Front Games"
+	publisher "Disney Interactive"
+	releaseyear 2015
+	releasemonth 8
+	releaseday 28
+	users 2
+	rom (
+		name "Disney Infinity 3.0: Play Without Limits (Europe).wux"
+		serial "BD3Z4Q"
 	)
 )
 
@@ -9117,21 +9120,6 @@ game (
 )
 
 game (
-	name "Donkey Kong Country: Tropical Freeze (Japan)"
-	serial "ARKJ01"
-	developer "Retro Studios / Monster Games"
-	publisher "Nintendo"
-	releaseyear 2014
-	releasemonth 2
-	releaseday 13
-	users 2
-	rom (
-		name "Donkey Kong Country: Tropical Freeze (Japan).wux"
-		serial "ARKJ01"
-	)
-)
-
-game (
 	name "Donkey Kong Country: Tropical Freeze (USA)"
 	serial "ARKE01"
 	developer "Retro Studios / Monster Games"
@@ -9309,6 +9297,21 @@ game (
 	rom (
 		name "Donkey Kong: Jungle Climber (Japan).wux"
 		serial "DAJJ"
+	)
+)
+
+game (
+	name "Donkey Kong: Tropical Freeze (Japan)"
+	serial "ARKJ01"
+	developer "Retro Studios / Monster Games"
+	publisher "Nintendo"
+	releaseyear 2014
+	releasemonth 2
+	releaseday 13
+	users 2
+	rom (
+		name "Donkey Kong: Tropical Freeze (Japan).wux"
+		serial "ARKJ01"
 	)
 )
 
@@ -9620,6 +9623,21 @@ game (
 )
 
 game (
+	name "Doubutsu no Mori: Amiibo Festival (Japan)"
+	serial "AALJ01"
+	developer "Nd Cube"
+	publisher "Nintendo"
+	releaseyear 2015
+	releasemonth 11
+	releaseday 21
+	users 4
+	rom (
+		name "Doubutsu no Mori: Amiibo Festival (Japan).wux"
+		serial "AALJ01"
+	)
+)
+
+game (
 	name "Downtown Nekketsu Monogatari (Japan)"
 	serial "FESJ"
 	developer "Arc System Works"
@@ -9645,6 +9663,21 @@ game (
 	rom (
 		name "Downtown Special: It's Kunio's Period Piece, Assemble Everyone!! (Japan).wux"
 		serial "FBZJ"
+	)
+)
+
+game (
+	name "Dr. Kawashima's Brain Training: How Old Is Your Brain? (Europe)"
+	serial "DAAP"
+	developer "Nintendo"
+	publisher "Nintendo"
+	releaseyear 2015
+	releasemonth 6
+	releaseday 25
+	users 1
+	rom (
+		name "Dr. Kawashima's Brain Training: How Old Is Your Brain? (Europe).wux"
+		serial "DAAP"
 	)
 )
 
@@ -9832,22 +9865,7 @@ game (
 )
 
 game (
-	name "Dragon Quest X Inishie no Ryu no Denshou Online (Japan)"
-	serial "BDLJGD"
-	developer "Square Enix"
-	publisher "Square Enix"
-	releaseyear 2015
-	releasemonth 4
-	releaseday 30
-	users 1
-	rom (
-		name "Dragon Quest X Inishie no Ryu no Denshou Online (Japan).wux"
-		serial "BDLJGD"
-	)
-)
-
-game (
-	name "Dragon Quest X: 5000-nen no Harukanaru Kokyou e Online (Japan)"
+	name "Dragon Quest X: 5000-nen no Tabiji: Haruka naru Kokyou e Online (Japan)"
 	serial "AXTJGD"
 	publisher "Square-Enix"
 	releaseyear 2017
@@ -9855,7 +9873,7 @@ game (
 	releaseday 16
 	users 1
 	rom (
-		name "Dragon Quest X: 5000-nen no Harukanaru Kokyou e Online (Japan).wux"
+		name "Dragon Quest X: 5000-nen no Tabiji: Haruka naru Kokyou e Online (Japan).wux"
 		serial "AXTJGD"
 	)
 )
@@ -9890,7 +9908,37 @@ game (
 )
 
 game (
-	name "Dragon Quest X: Mezameshi Itsutsu no Shuzoku (Japan)"
+	name "Dragon Quest X: All in One Package Version 1-Version 4 (Japan)"
+	serial "WDQJGD"
+	developer "Square Enix"
+	publisher "Square Enix"
+	releaseyear 2018
+	releasemonth 7
+	releaseday 26
+	users 1
+	rom (
+		name "Dragon Quest X: All in One Package Version 1-Version 4 (Japan).wux"
+		serial "WDQJGD"
+	)
+)
+
+game (
+	name "Dragon Quest X: Inishie no Ryuu no Denshou Online (Japan)"
+	serial "BDLJGD"
+	developer "Square Enix"
+	publisher "Square Enix"
+	releaseyear 2015
+	releasemonth 4
+	releaseday 30
+	users 1
+	rom (
+		name "Dragon Quest X: Inishie no Ryuu no Denshou Online (Japan).wux"
+		serial "BDLJGD"
+	)
+)
+
+game (
+	name "Dragon Quest X: Nemureru Yuusha to Michibiki no Meiyuu Online (Japan)"
 	serial "ADQJGD"
 	developer "Square Enix"
 	publisher "Square Enix"
@@ -9899,7 +9947,7 @@ game (
 	releaseday 30
 	users 1
 	rom (
-		name "Dragon Quest X: Mezameshi Itsutsu no Shuzoku (Japan).wux"
+		name "Dragon Quest X: Nemureru Yuusha to Michibiki no Meiyuu Online (Japan).wux"
 		serial "ADQJGD"
 	)
 )
@@ -10176,21 +10224,6 @@ game (
 	rom (
 		name "DuckTales: Remastered (Europe).wux"
 		serial "WDKP"
-	)
-)
-
-game (
-	name "DuckTales: Remastered (Europe)"
-	serial "WDKP08"
-	developer "WayForward"
-	publisher "Capcom"
-	releaseyear 2013
-	releasemonth 8
-	releaseday 15
-	users 1
-	rom (
-		name "DuckTales: Remastered (Europe).wux"
-		serial "WDKP08"
 	)
 )
 
@@ -11087,21 +11120,6 @@ game (
 )
 
 game (
-	name "F-Zero - GP Legend (Europe)"
-	serial "PBGP"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 1
-	releaseday 1
-	users 1
-	rom (
-		name "F-Zero - GP Legend (Europe).wux"
-		serial "PBGP"
-	)
-)
-
-game (
 	name "F-Zero - GP Legend (USA)"
 	serial "PBGE"
 	developer "Nintendo"
@@ -11143,6 +11161,21 @@ game (
 	rom (
 		name "F-Zero X (USA).wux"
 		serial "NAWE"
+	)
+)
+
+game (
+	name "F-Zero: GP Legend (Europe)"
+	serial "PBGP"
+	developer "Nintendo"
+	publisher "Nintendo"
+	releaseyear 2015
+	releasemonth 1
+	releaseday 1
+	users 1
+	rom (
+		name "F-Zero: GP Legend (Europe).wux"
+		serial "PBGP"
 	)
 )
 
@@ -11239,21 +11272,6 @@ game (
 )
 
 game (
-	name "FAST Racing NEO (Europe)"
-	serial "BR5PJX"
-	developer "Shin'en Multimedia"
-	publisher "Shin'en Multimedia"
-	releaseyear 2016
-	releasemonth 9
-	releaseday 30
-	users 2
-	rom (
-		name "FAST Racing NEO (Europe).wux"
-		serial "BR5PJX"
-	)
-)
-
-game (
 	name "FAST Racing NEO (Japan)"
 	serial "WFSJ"
 	developer "Shin'en"
@@ -11284,7 +11302,7 @@ game (
 )
 
 game (
-	name "FIFA 13 (Japan)"
+	name "FIFA 13: World Class Soccer (Japan)"
 	serial "AF3J13"
 	developer "EA Canada"
 	publisher "EA Sports"
@@ -11293,7 +11311,7 @@ game (
 	releaseday 8
 	users 5
 	rom (
-		name "FIFA 13 (Japan).wux"
+		name "FIFA 13: World Class Soccer (Japan).wux"
 		serial "AF3J13"
 	)
 )
@@ -11468,7 +11486,7 @@ game (
 )
 
 game (
-	name "Family Party: 30 Great Games Obstacle Arcade (Europe)"
+	name "Family Party: 30 Great Games: Obstacle Arcade (Europe)"
 	serial "AFPPAF"
 	developer "Art Co. Ltd."
 	publisher "D3 Publisher"
@@ -11477,13 +11495,13 @@ game (
 	releaseday 30
 	users 4
 	rom (
-		name "Family Party: 30 Great Games Obstacle Arcade (Europe).wux"
+		name "Family Party: 30 Great Games: Obstacle Arcade (Europe).wux"
 		serial "AFPPAF"
 	)
 )
 
 game (
-	name "Family Party: 30 Great Games Obstacle Arcade (USA)"
+	name "Family Party: 30 Great Games: Obstacle Arcade (USA)"
 	serial "AFPEG9"
 	developer "Art Co. Ltd."
 	publisher "D3 Publisher"
@@ -11493,7 +11511,7 @@ game (
 	users 4
 	esrb_rating "E"
 	rom (
-		name "Family Party: 30 Great Games Obstacle Arcade (USA).wux"
+		name "Family Party: 30 Great Games: Obstacle Arcade (USA).wux"
 		serial "AFPEG9"
 	)
 )
@@ -11545,6 +11563,37 @@ game (
 )
 
 game (
+	name "Fast & Furious: Showdown (Europe)"
+	serial "AF6P52"
+	developer "Firebrand Games"
+	publisher "Activision"
+	releaseyear 2013
+	releasemonth 5
+	releaseday 24
+	users 2
+	rom (
+		name "Fast & Furious: Showdown (Europe).wux"
+		serial "AF6P52"
+	)
+)
+
+game (
+	name "Fast & Furious: Showdown (USA)"
+	serial "AF6E52"
+	developer "Firebrand Games"
+	publisher "Activision"
+	releaseyear 2013
+	releasemonth 5
+	releaseday 21
+	users 2
+	esrb_rating "T"
+	rom (
+		name "Fast & Furious: Showdown (USA).wux"
+		serial "AF6E52"
+	)
+)
+
+game (
 	name "Fast Racing NEO (Europe)"
 	serial "WFSP"
 	developer "Shin'en"
@@ -11576,33 +11625,17 @@ game (
 )
 
 game (
-	name "Fast and Furious: Showdown (Europe)"
-	serial "AF6P52"
-	developer "Firebrand Games"
-	publisher "Activision"
-	releaseyear 2013
-	releasemonth 5
-	releaseday 24
+	name "Fast Racing Neo (Europe)"
+	serial "BR5PJX"
+	developer "Shin'en Multimedia"
+	publisher "Shin'en Multimedia"
+	releaseyear 2016
+	releasemonth 9
+	releaseday 30
 	users 2
 	rom (
-		name "Fast and Furious: Showdown (Europe).wux"
-		serial "AF6P52"
-	)
-)
-
-game (
-	name "Fast and Furious: Showdown (USA)"
-	serial "AF6E52"
-	developer "Firebrand Games"
-	publisher "Activision"
-	releaseyear 2013
-	releasemonth 5
-	releaseday 21
-	users 2
-	esrb_rating "T"
-	rom (
-		name "Fast and Furious: Showdown (USA).wux"
-		serial "AF6E52"
+		name "Fast Racing Neo (Europe).wux"
+		serial "BR5PJX"
 	)
 )
 
@@ -12108,14 +12141,14 @@ game (
 )
 
 game (
-	name "Finding Teddy II - Definitive Edition (Europe)"
+	name "Finding Teddy II: Definitive Edition (Europe)"
 	serial "HEHP26"
 	developer "Storybird"
 	publisher "PixelHeart"
 	releaseyear 2020
 	users 1
 	rom (
-		name "Finding Teddy II - Definitive Edition (Europe).wux"
+		name "Finding Teddy II: Definitive Edition (Europe).wux"
 		serial "HEHP26"
 	)
 )
@@ -12387,20 +12420,6 @@ game (
 	rom (
 		name "Fire: Ungh's Quest (Europe).wux"
 		serial "BFQP"
-	)
-)
-
-game (
-	name "Fist of the North Star - Ken's Rage 2 (Shin Hokuto Musou) (Japan)"
-	serial "AH9JC8"
-	publisher "Tecmo Koei Games Co. Ltd"
-	releaseyear 2013
-	releasemonth 1
-	releaseday 31
-	users 1
-	rom (
-		name "Fist of the North Star - Ken's Rage 2 (Shin Hokuto Musou) (Japan).wux"
-		serial "AH9JC8"
 	)
 )
 
@@ -12847,7 +12866,7 @@ game (
 )
 
 game (
-	name "Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party! (Japan)"
+	name "Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! (Japan)"
 	serial "BSFJAF"
 	developer "Bandai Namco Games"
 	publisher "Bandai Namco Games"
@@ -12856,7 +12875,7 @@ game (
 	releaseday 20
 	users 1
 	rom (
-		name "Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party! (Japan).wux"
+		name "Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! (Japan).wux"
 		serial "BSFJAF"
 	)
 )
@@ -13551,6 +13570,21 @@ game (
 )
 
 game (
+	name "Gen'ei Ibunroku FE (Japan)"
+	serial "ASEJ01"
+	developer "Intelligent Systems, Atlus"
+	publisher "Nintendo"
+	releaseyear 2015
+	releasemonth 12
+	releaseday 26
+	users 1
+	rom (
+		name "Gen'ei Ibunroku FE (Japan).wux"
+		serial "ASEJ01"
+	)
+)
+
+game (
 	name "Genghis Khan II: Clan of the Grey Wolf (USA)"
 	serial "JC7E"
 	developer "KOEI TECMO GAMES CO., LTD."
@@ -13721,7 +13755,23 @@ game (
 )
 
 game (
-	name "Ginsei Shogi: Kyoutendo Toufuu Raijin (Japan)"
+	name "Giana Sisters: Twisted Dreams: Director's Cut (USA)"
+	serial "WGSZCX"
+	developer "Black Forest Games"
+	publisher "Black Forest Games"
+	releaseyear 2015
+	releasemonth 9
+	releaseday 29
+	users 1
+	esrb_rating "E"
+	rom (
+		name "Giana Sisters: Twisted Dreams: Director's Cut (USA).wux"
+		serial "WGSZCX"
+	)
+)
+
+game (
+	name "Ginsei Shougi: Kyoutendo Toufuu Raijin (Japan)"
 	serial "AGZJME"
 	developer "SilverStar Japan"
 	publisher "SilverStar Japan"
@@ -13730,7 +13780,7 @@ game (
 	releaseday 25
 	users 2
 	rom (
-		name "Ginsei Shogi: Kyoutendo Toufuu Raijin (Japan).wux"
+		name "Ginsei Shougi: Kyoutendo Toufuu Raijin (Japan).wux"
 		serial "AGZJME"
 	)
 )
@@ -13933,7 +13983,7 @@ game (
 )
 
 game (
-	name "Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi (Japan)"
+	name "Gotouchi Tetsudou: Gotouchi Chara to Nippon Zenkoku no Tabi (Japan)"
 	serial "BLTJAF"
 	developer "Bandai Namco Games"
 	publisher "Bandai Namco Games"
@@ -13942,7 +13992,7 @@ game (
 	releaseday 27
 	users 1
 	rom (
-		name "Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi (Japan).wux"
+		name "Gotouchi Tetsudou: Gotouchi Chara to Nippon Zenkoku no Tabi (Japan).wux"
 		serial "BLTJAF"
 	)
 )
@@ -14303,7 +14353,7 @@ game (
 	releaseyear 2015
 	releasemonth 10
 	releaseday 23
-	users 10
+	users 3
 	rom (
 		name "Guitar Hero Live (Europe).wux"
 		serial "AGNP52"
@@ -15082,7 +15132,7 @@ game (
 )
 
 game (
-	name "Hunter's Trophy 2 - Europa (Europe)"
+	name "Hunter's Trophy 2: Europa (Europe)"
 	serial "AH5PNK"
 	developer "Kylotonn"
 	publisher "Big Ben Interactive"
@@ -15091,7 +15141,7 @@ game (
 	releaseday 1
 	users 1
 	rom (
-		name "Hunter's Trophy 2 - Europa (Europe).wux"
+		name "Hunter's Trophy 2: Europa (Europe).wux"
 		serial "AH5PNK"
 	)
 )
@@ -15543,7 +15593,7 @@ game (
 )
 
 game (
-	name "Injustice: Kamigami no Gekitotsu (Japan)"
+	name "Injustice: Hero no Gekitotsu (Japan)"
 	serial "AJSJWR"
 	developer "Nether Realm Studios"
 	publisher "Warner Bros. Interactive Entertainment Inc."
@@ -15552,7 +15602,7 @@ game (
 	releaseday 27
 	users 2
 	rom (
-		name "Injustice: Kamigami no Gekitotsu (Japan).wux"
+		name "Injustice: Hero no Gekitotsu (Japan).wux"
 		serial "AJSJWR"
 	)
 )
@@ -16237,37 +16287,6 @@ game (
 )
 
 game (
-	name "Just Dance Disney Party 2 (Europe)"
-	serial "ADPP41"
-	developer "Land Ho!"
-	publisher "Ubi Soft Entertainment"
-	releaseyear 2015
-	releasemonth 10
-	releaseday 23
-	users 1
-	rom (
-		name "Just Dance Disney Party 2 (Europe).wux"
-		serial "ADPP41"
-	)
-)
-
-game (
-	name "Just Dance Disney Party 2 (USA)"
-	serial "ADPE41"
-	developer "Land Ho!"
-	publisher "Ubisoft"
-	releaseyear 2015
-	releasemonth 10
-	releaseday 20
-	users 1
-	esrb_rating "E"
-	rom (
-		name "Just Dance Disney Party 2 (USA).wux"
-		serial "ADPE41"
-	)
-)
-
-game (
 	name "Just Dance Kids 2014 (Europe)"
 	serial "AJKP41"
 	developer "Ubi Soft Entertainment"
@@ -16314,6 +16333,37 @@ game (
 )
 
 game (
+	name "Just Dance: Disney Party 2 (Europe)"
+	serial "ADPP41"
+	developer "Land Ho!"
+	publisher "Ubi Soft Entertainment"
+	releaseyear 2015
+	releasemonth 10
+	releaseday 23
+	users 1
+	rom (
+		name "Just Dance: Disney Party 2 (Europe).wux"
+		serial "ADPP41"
+	)
+)
+
+game (
+	name "Just Dance: Disney Party 2 (USA)"
+	serial "ADPE41"
+	developer "Land Ho!"
+	publisher "Ubisoft"
+	releaseyear 2015
+	releasemonth 10
+	releaseday 20
+	users 1
+	esrb_rating "E"
+	rom (
+		name "Just Dance: Disney Party 2 (USA).wux"
+		serial "ADPE41"
+	)
+)
+
+game (
 	name "KEYTARI: 8-bit Music Maker (USA)"
 	serial "AKEE"
 	developer "Famous Gamous"
@@ -16342,21 +16392,6 @@ game (
 	rom (
 		name "KLONOA 2: Dream Champ Tournament (USA).wux"
 		serial "PBKE"
-	)
-)
-
-game (
-	name "KLONOA: Empire of Dreams (Europe)"
-	serial "PANP"
-	developer "NAMCO BANDAI Games, Inc."
-	publisher "NAMCO BANDAI Games, Inc."
-	releaseyear 2014
-	releasemonth 5
-	releaseday 22
-	users 1
-	rom (
-		name "KLONOA: Empire of Dreams (Europe).wux"
-		serial "PANP"
 	)
 )
 
@@ -16462,7 +16497,7 @@ game (
 )
 
 game (
-	name "Kamen Rider SummonRide (Japan)"
+	name "Kamen Rider Summonride! (Japan)"
 	serial "BRSJAF"
 	developer "Bandai Namco Games"
 	publisher "Bandai Namco Games"
@@ -16471,7 +16506,7 @@ game (
 	releaseday 4
 	users 1
 	rom (
-		name "Kamen Rider SummonRide (Japan).wux"
+		name "Kamen Rider Summonride! (Japan).wux"
 		serial "BRSJAF"
 	)
 )
@@ -16491,7 +16526,7 @@ game (
 )
 
 game (
-	name "Kamen Rider: Battride War II (Premium TV & Movie Sound Edition) (Japan)"
+	name "Kamen Rider: Battride War II: Premium TV & Movie Sound Edition (Japan)"
 	serial "APWJAF"
 	publisher "Namco"
 	releaseyear 2014
@@ -16499,7 +16534,7 @@ game (
 	releaseday 26
 	users 1
 	rom (
-		name "Kamen Rider: Battride War II (Premium TV & Movie Sound Edition) (Japan).wux"
+		name "Kamen Rider: Battride War II: Premium TV & Movie Sound Edition (Japan).wux"
 		serial "APWJAF"
 	)
 )
@@ -16721,21 +16756,6 @@ game (
 	rom (
 		name "King's Knight (Japan).wux"
 		serial "FEXJ"
-	)
-)
-
-game (
-	name "Kirby 64: The Crystal Shards (Europe)"
-	serial "NAEP"
-	developer "HAL Laboratory, Inc."
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 6
-	releaseday 25
-	users 4
-	rom (
-		name "Kirby 64: The Crystal Shards (Europe).wux"
-		serial "NAEP"
 	)
 )
 
@@ -17287,6 +17307,21 @@ game (
 )
 
 game (
+	name "Klonoa: Empire of Dreams (Europe)"
+	serial "PANP"
+	developer "NAMCO BANDAI Games, Inc."
+	publisher "NAMCO BANDAI Games, Inc."
+	releaseyear 2014
+	releasemonth 5
+	releaseday 22
+	users 1
+	rom (
+		name "Klonoa: Empire of Dreams (Europe).wux"
+		serial "PANP"
+	)
+)
+
+game (
 	name "Knightmare (Japan)"
 	serial "MNHJ"
 	publisher "Konami"
@@ -17651,21 +17686,6 @@ game (
 )
 
 game (
-	name "Kuru Kuru Kururin (Europe)"
-	serial "PA8Z"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2014
-	releasemonth 12
-	releaseday 25
-	users 1
-	rom (
-		name "Kuru Kuru Kururin (Europe).wux"
-		serial "PA8Z"
-	)
-)
-
-game (
 	name "Kuru Kuru Kururin (Japan)"
 	serial "PA8J"
 	developer "Nintendo"
@@ -17682,17 +17702,16 @@ game (
 
 game (
 	name "Kuru Kuru Kururin (USA)"
-	serial "PA8E"
+	serial "PA8Z"
 	developer "Nintendo"
 	publisher "Nintendo"
-	releaseyear 2016
-	releasemonth 2
-	releaseday 11
+	releaseyear 2014
+	releasemonth 12
+	releaseday 25
 	users 1
-	esrb_rating "E"
 	rom (
 		name "Kuru Kuru Kururin (USA).wux"
-		serial "PA8E"
+		serial "PA8Z"
 	)
 )
 
@@ -17742,21 +17761,6 @@ game (
 )
 
 game (
-	name "LEGO Batman 3 The Game: Gotham Kara Uchuu he (Japan)"
-	serial "BTMJWR"
-	developer "TT Games"
-	publisher "Warner Bros. Interactive Entertainment Inc."
-	releaseyear 2015
-	releasemonth 4
-	releaseday 2
-	users 2
-	rom (
-		name "LEGO Batman 3 The Game: Gotham Kara Uchuu he (Japan).wux"
-		serial "BTMJWR"
-	)
-)
-
-game (
 	name "LEGO Batman 3: Beyond Gotham (Europe)"
 	serial "BTMPWR"
 	developer "TT Games"
@@ -17784,6 +17788,21 @@ game (
 	rom (
 		name "LEGO Batman 3: Beyond Gotham (USA).wux"
 		serial "BTMEWR"
+	)
+)
+
+game (
+	name "LEGO Batman 3: The Game: Gotham kara Uchuu e (Japan)"
+	serial "BTMJWR"
+	developer "TT Games"
+	publisher "Warner Bros. Interactive Entertainment Inc."
+	releaseyear 2015
+	releasemonth 4
+	releaseday 2
+	users 2
+	rom (
+		name "LEGO Batman 3: The Game: Gotham kara Uchuu e (Japan).wux"
+		serial "BTMJWR"
 	)
 )
 
@@ -17911,6 +17930,52 @@ game (
 )
 
 game (
+	name "LEGO Marvel Avengers (Europe)"
+	serial "ALRPWR"
+	developer "TT Games"
+	publisher "Warner Bros. Interactive Entertainment Inc."
+	releaseyear 2016
+	releasemonth 1
+	releaseday 26
+	users 2
+	rom (
+		name "LEGO Marvel Avengers (Europe).wux"
+		serial "ALRPWR"
+	)
+)
+
+game (
+	name "LEGO Marvel Avengers (Japan)"
+	serial "ALRJWR"
+	developer "TT Games"
+	publisher "Warner Bros. Interactive Entertainment Inc."
+	releaseyear 2016
+	releasemonth 4
+	releaseday 28
+	users 2
+	rom (
+		name "LEGO Marvel Avengers (Japan).wux"
+		serial "ALRJWR"
+	)
+)
+
+game (
+	name "LEGO Marvel Avengers (USA)"
+	serial "ALREWR"
+	developer "TT Games"
+	publisher "Warner Bros. Interactive Entertainment Inc."
+	releaseyear 2016
+	releasemonth 1
+	releaseday 26
+	users 2
+	esrb_rating "E10+"
+	rom (
+		name "LEGO Marvel Avengers (USA).wux"
+		serial "ALREWR"
+	)
+)
+
+game (
 	name "LEGO Marvel Super Heroes (Europe)"
 	serial "ALMPWR"
 	developer "Traveller's Tales"
@@ -17942,7 +18007,7 @@ game (
 )
 
 game (
-	name "LEGO Marvel Super Heroes The Game (Japan)"
+	name "LEGO Marvel Super Heroes: The Game (Japan)"
 	serial "ALMJWR"
 	developer "Traveller's Tales"
 	publisher "Warner Bros. Interactive Entertainment Inc."
@@ -17951,54 +18016,38 @@ game (
 	releaseday 22
 	users 2
 	rom (
-		name "LEGO Marvel Super Heroes The Game (Japan).wux"
+		name "LEGO Marvel Super Heroes: The Game (Japan).wux"
 		serial "ALMJWR"
 	)
 )
 
 game (
-	name "LEGO Marvel's Avengers (Europe)"
-	serial "ALRPWR"
-	developer "TT Games"
+	name "LEGO Movie: The Game (Japan)"
+	serial "ALAJWR"
+	developer "TT Games, TT Fusion"
 	publisher "Warner Bros. Interactive Entertainment Inc."
-	releaseyear 2016
-	releasemonth 1
-	releaseday 26
+	releaseyear 2014
+	releasemonth 11
+	releaseday 6
 	users 2
 	rom (
-		name "LEGO Marvel's Avengers (Europe).wux"
-		serial "ALRPWR"
+		name "LEGO Movie: The Game (Japan).wux"
+		serial "ALAJWR"
 	)
 )
 
 game (
-	name "LEGO Marvel's Avengers (Japan)"
-	serial "ALRJWR"
+	name "LEGO Star Wars: Force no Kakusei (Japan)"
+	serial "BLGJWR"
 	developer "TT Games"
 	publisher "Warner Bros. Interactive Entertainment Inc."
 	releaseyear 2016
-	releasemonth 4
-	releaseday 28
+	releasemonth 10
+	releaseday 13
 	users 2
 	rom (
-		name "LEGO Marvel's Avengers (Japan).wux"
-		serial "ALRJWR"
-	)
-)
-
-game (
-	name "LEGO Marvel's Avengers (USA)"
-	serial "ALREWR"
-	developer "TT Games"
-	publisher "Warner Bros. Interactive Entertainment Inc."
-	releaseyear 2016
-	releasemonth 1
-	releaseday 26
-	users 2
-	esrb_rating "E10+"
-	rom (
-		name "LEGO Marvel's Avengers (USA).wux"
-		serial "ALREWR"
+		name "LEGO Star Wars: Force no Kakusei (Japan).wux"
+		serial "BLGJWR"
 	)
 )
 
@@ -18014,21 +18063,6 @@ game (
 	rom (
 		name "LEGO Star Wars: The Force Awakens (Europe).wux"
 		serial "BLGPWR"
-	)
-)
-
-game (
-	name "LEGO Star Wars: The Force Awakens (Japan)"
-	serial "BLGJWR"
-	developer "TT Games"
-	publisher "Warner Bros. Interactive Entertainment Inc."
-	releaseyear 2016
-	releasemonth 10
-	releaseday 13
-	users 2
-	rom (
-		name "LEGO Star Wars: The Force Awakens (Japan).wux"
-		serial "BLGJWR"
 	)
 )
 
@@ -18275,7 +18309,7 @@ game (
 )
 
 game (
-	name "Legend of Kay Anniversary (Europe)"
+	name "Legend of Kay: Anniversary (Europe)"
 	serial "BLKP6V"
 	developer "Kaiko"
 	publisher "Nordic Games"
@@ -18284,13 +18318,13 @@ game (
 	releaseday 4
 	users 1
 	rom (
-		name "Legend of Kay Anniversary (Europe).wux"
+		name "Legend of Kay: Anniversary (Europe).wux"
 		serial "BLKP6V"
 	)
 )
 
 game (
-	name "Legend of Kay Anniversary (USA)"
+	name "Legend of Kay: Anniversary (USA)"
 	serial "BLKE6V"
 	developer "Kaiko"
 	publisher "Nordic Games"
@@ -18300,7 +18334,7 @@ game (
 	users 1
 	esrb_rating "E10+"
 	rom (
-		name "Legend of Kay Anniversary (USA).wux"
+		name "Legend of Kay: Anniversary (USA).wux"
 		serial "BLKE6V"
 	)
 )
@@ -18797,21 +18831,6 @@ game (
 )
 
 game (
-	name "Luv Me Buddies Wonderland (Europe)"
-	serial "ALVPYF"
-	developer "O2 Games"
-	publisher "O2 Games"
-	releaseyear 2014
-	releasemonth 6
-	releaseday 26
-	users 4
-	rom (
-		name "Luv Me Buddies Wonderland (Europe).wux"
-		serial "ALVPYF"
-	)
-)
-
-game (
 	name "Luv Me Buddies Wonderland (USA)"
 	serial "ALVE"
 	developer "O2 Games"
@@ -18824,6 +18843,21 @@ game (
 	rom (
 		name "Luv Me Buddies Wonderland (USA).wux"
 		serial "ALVE"
+	)
+)
+
+game (
+	name "Luv Me Buddies: Wonderland (Europe)"
+	serial "ALVPYF"
+	developer "O2 Games"
+	publisher "O2 Games"
+	releaseyear 2014
+	releasemonth 6
+	releaseday 26
+	users 4
+	rom (
+		name "Luv Me Buddies: Wonderland (Europe).wux"
+		serial "ALVPYF"
 	)
 )
 
@@ -19219,6 +19253,21 @@ game (
 )
 
 game (
+	name "Mario & Sonic at Rio Olympic (Japan)"
+	serial "ABJJ01"
+	developer "SEGA"
+	publisher "Nintendo"
+	releaseyear 2016
+	releasemonth 6
+	releaseday 23
+	users 4
+	rom (
+		name "Mario & Sonic at Rio Olympic (Japan).wux"
+		serial "ABJJ01"
+	)
+)
+
+game (
 	name "Mario & Sonic at the Rio 2016 Olympic Games (Europe)"
 	serial "ABJP01"
 	developer "SEGA"
@@ -19230,21 +19279,6 @@ game (
 	rom (
 		name "Mario & Sonic at the Rio 2016 Olympic Games (Europe).wux"
 		serial "ABJP01"
-	)
-)
-
-game (
-	name "Mario & Sonic at the Rio 2016 Olympic Games (Japan)"
-	serial "ABJJ01"
-	developer "SEGA"
-	publisher "Nintendo"
-	releaseyear 2016
-	releasemonth 6
-	releaseday 23
-	users 4
-	rom (
-		name "Mario & Sonic at the Rio 2016 Olympic Games (Japan).wux"
-		serial "ABJJ01"
 	)
 )
 
@@ -19280,21 +19314,6 @@ game (
 )
 
 game (
-	name "Mario & Sonic at the Sochi 2014 Olympic Winter Games (Japan)"
-	serial "AURJ01"
-	developer "Nintendo / SEGA"
-	publisher "Nintendo"
-	releaseyear 2013
-	releasemonth 12
-	releaseday 5
-	users 4
-	rom (
-		name "Mario & Sonic at the Sochi 2014 Olympic Winter Games (Japan).wux"
-		serial "AURJ01"
-	)
-)
-
-game (
 	name "Mario & Sonic at the Sochi 2014 Olympic Winter Games (USA)"
 	serial "AURE01"
 	developer "Nintendo / SEGA"
@@ -19307,6 +19326,21 @@ game (
 	rom (
 		name "Mario & Sonic at the Sochi 2014 Olympic Winter Games (USA).wux"
 		serial "AURE01"
+	)
+)
+
+game (
+	name "Mario & Sonic at the Sochi Olympic (Japan)"
+	serial "AURJ01"
+	developer "Nintendo / SEGA"
+	publisher "Nintendo"
+	releaseyear 2013
+	releasemonth 12
+	releaseday 5
+	users 4
+	rom (
+		name "Mario & Sonic at the Sochi Olympic (Japan).wux"
+		serial "AURJ01"
 	)
 )
 
@@ -19383,21 +19417,6 @@ game (
 	rom (
 		name "Mario Brothers (Japan).wux"
 		serial "FAEJ"
-	)
-)
-
-game (
-	name "Mario Golf (Europe)"
-	serial "NAGP"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 10
-	releaseday 8
-	users 4
-	rom (
-		name "Mario Golf (Europe).wux"
-		serial "NAGP"
 	)
 )
 
@@ -19725,21 +19744,6 @@ game (
 )
 
 game (
-	name "Mario Party 2 (Europe)"
-	serial "NAQP"
-	developer "Hudson Soft"
-	publisher "Nintendo"
-	releaseyear 2016
-	releasemonth 4
-	releaseday 21
-	users 4
-	rom (
-		name "Mario Party 2 (Europe).wux"
-		serial "NAQP"
-	)
-)
-
-game (
 	name "Mario Party 2 (Japan)"
 	serial "NAQJ"
 	developer "Hudson Soft"
@@ -20041,21 +20045,6 @@ game (
 )
 
 game (
-	name "Mario Tennis (Europe)"
-	serial "NAFP"
-	developer "Camelot"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 12
-	releaseday 17
-	users 4
-	rom (
-		name "Mario Tennis (Europe).wux"
-		serial "NAFP"
-	)
-)
-
-game (
 	name "Mario Tennis (Japan)"
 	serial "NAFJ"
 	developer "Camelot"
@@ -20302,6 +20291,21 @@ game (
 )
 
 game (
+	name "Mario vs. Donkey Kong: Minna de Mini Land (Japan)"
+	serial "WAFJ01"
+	developer "Nintendo"
+	publisher "Nintendo"
+	releaseyear 2015
+	releasemonth 3
+	releaseday 19
+	users 1
+	rom (
+		name "Mario vs. Donkey Kong: Minna de Mini Land (Japan).wux"
+		serial "WAFJ01"
+	)
+)
+
+game (
 	name "Mario vs. Donkey Kong: Tipping Stars (Download Code) (Europe)"
 	serial "WAFP01"
 	developer "Nintendo"
@@ -20343,21 +20347,6 @@ game (
 	rom (
 		name "Mario vs. Donkey Kong: Tipping Stars (Japan).wux"
 		serial "WAFJ"
-	)
-)
-
-game (
-	name "Mario vs. Donkey Kong: Tipping Stars (Japan)"
-	serial "WAFJ01"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 3
-	releaseday 19
-	users 1
-	rom (
-		name "Mario vs. Donkey Kong: Tipping Stars (Japan).wux"
-		serial "WAFJ01"
 	)
 )
 
@@ -20484,7 +20473,7 @@ game (
 )
 
 game (
-	name "Mass Effect 3 - Special Edition (Europe)"
+	name "Mass Effect 3: Special Edition (Europe)"
 	serial "AMEP69"
 	developer "BioWare / Straight Right"
 	publisher "Electronic Arts"
@@ -20493,23 +20482,8 @@ game (
 	releaseday 30
 	users 1
 	rom (
-		name "Mass Effect 3 - Special Edition (Europe).wux"
+		name "Mass Effect 3: Special Edition (Europe).wux"
 		serial "AMEP69"
-	)
-)
-
-game (
-	name "Mass Effect 3: Special Edition (Japan)"
-	serial "AMEJ13"
-	developer "BioWare / Straight Right"
-	publisher "Electronic Arts"
-	releaseyear 2012
-	releasemonth 12
-	releaseday 8
-	users 1
-	rom (
-		name "Mass Effect 3: Special Edition (Japan).wux"
-		serial "AMEJ13"
 	)
 )
 
@@ -20526,6 +20500,21 @@ game (
 	rom (
 		name "Mass Effect 3: Special Edition (USA).wux"
 		serial "AMEE69"
+	)
+)
+
+game (
+	name "Mass Effect 3: Tokubetsu-ban (Japan)"
+	serial "AMEJ13"
+	developer "BioWare / Straight Right"
+	publisher "Electronic Arts"
+	releaseyear 2012
+	releasemonth 12
+	releaseday 8
+	users 1
+	rom (
+		name "Mass Effect 3: Tokubetsu-ban (Japan).wux"
+		serial "AMEJ13"
 	)
 )
 
@@ -20908,6 +20897,21 @@ game (
 )
 
 game (
+	name "Mega Man 2 (Europe)"
+	serial "FAPP"
+	developer "Capcom"
+	publisher "Capcom"
+	releaseyear 2015
+	releasemonth 2
+	releaseday 5
+	users 1
+	rom (
+		name "Mega Man 2 (Europe).wux"
+		serial "FAPP"
+	)
+)
+
+game (
 	name "Mega Man 2 (USA)"
 	serial "FAPE"
 	developer "Capcom"
@@ -21106,21 +21110,6 @@ game (
 	rom (
 		name "Mega Man Battle Network (USA).wux"
 		serial "PBAE"
-	)
-)
-
-game (
-	name "Mega Man Battle Network 2 (Europe)"
-	serial "PBPP"
-	developer "Capcom"
-	publisher "Capcom"
-	releaseyear 2015
-	releasemonth 5
-	releaseday 14
-	users 1
-	rom (
-		name "Mega Man Battle Network 2 (Europe).wux"
-		serial "PBPP"
 	)
 )
 
@@ -21743,21 +21732,6 @@ game (
 )
 
 game (
-	name "Megaman Two (Europe)"
-	serial "FAPP"
-	developer "Capcom"
-	publisher "Capcom"
-	releaseyear 2015
-	releasemonth 2
-	releaseday 5
-	users 1
-	rom (
-		name "Megaman Two (Europe).wux"
-		serial "FAPP"
-	)
-)
-
-game (
 	name "Meine Ersten Mitsing-Lieder (Europe)"
 	serial "WMEP"
 	developer "RingZero Game Studio"
@@ -22293,6 +22267,8 @@ game (
 game (
 	name "Mighty No. 9 (Japan)"
 	serial "AMQJ"
+	developer "Comcept"
+	publisher "Deep Silver"
 	releaseyear 2016
 	releasemonth 6
 	releaseday 21
@@ -22514,7 +22490,7 @@ game (
 )
 
 game (
-	name "Minecraft: Story Mode - The Complete Adventure (Europe)"
+	name "Minecraft: Story Mode: A Telltale Games Series: The Complete Adventure (Europe)"
 	serial "BAKPTL"
 	developer "Telltale Games, Mojang"
 	publisher "Telltale Games"
@@ -22523,13 +22499,13 @@ game (
 	releaseday 1
 	users 1
 	rom (
-		name "Minecraft: Story Mode - The Complete Adventure (Europe).wux"
+		name "Minecraft: Story Mode: A Telltale Games Series: The Complete Adventure (Europe).wux"
 		serial "BAKPTL"
 	)
 )
 
 game (
-	name "Minecraft: Story Mode - The Complete Adventure (USA)"
+	name "Minecraft: Story Mode: A Telltale Games Series: The Complete Adventure (USA)"
 	serial "BAKETL"
 	developer "Telltale Games, Mojang"
 	publisher "Telltale Games"
@@ -22539,23 +22515,8 @@ game (
 	users 1
 	esrb_rating "E10+"
 	rom (
-		name "Minecraft: Story Mode - The Complete Adventure (USA).wux"
+		name "Minecraft: Story Mode: A Telltale Games Series: The Complete Adventure (USA).wux"
 		serial "BAKETL"
-	)
-)
-
-game (
-	name "Minecraft: Super Mario Edition (USA)"
-	serial "AUMED2"
-	developer "4J Studios"
-	publisher "Mojang AB"
-	releaseyear 2016
-	releasemonth 5
-	releaseday 17
-	users 1
-	rom (
-		name "Minecraft: Super Mario Edition (USA).wux"
-		serial "AUMED2"
 	)
 )
 
@@ -22910,21 +22871,6 @@ game (
 )
 
 game (
-	name "Monster Hunter 3 G HD Ver. (Japan)"
-	serial "AHDJ08"
-	developer "Capcom"
-	publisher "Capcom"
-	releaseyear 2012
-	releasemonth 12
-	releaseday 8
-	users 4
-	rom (
-		name "Monster Hunter 3 G HD Ver. (Japan).wux"
-		serial "AHDJ08"
-	)
-)
-
-game (
 	name "Monster Hunter 3 Ultimate (Europe)"
 	serial "AHDP08"
 	developer "Capcom"
@@ -22984,6 +22930,21 @@ game (
 )
 
 game (
+	name "Monster Hunter 3G: HD Ver. (Japan)"
+	serial "AHDJ08"
+	developer "Capcom"
+	publisher "Capcom"
+	releaseyear 2012
+	releasemonth 12
+	releaseday 8
+	users 4
+	rom (
+		name "Monster Hunter 3G: HD Ver. (Japan).wux"
+		serial "AHDJ08"
+	)
+)
+
+game (
 	name "Monster Hunter Frontier G5: Premium Package (Japan)"
 	serial "AG5J08"
 	publisher "Capcom"
@@ -22998,7 +22959,7 @@ game (
 )
 
 game (
-	name "Monster Hunter Frontier G6 Premium Package (Japan)"
+	name "Monster Hunter Frontier G6: Premium Package (Japan)"
 	serial "AG6J08"
 	developer "Capcom"
 	publisher "Capcom"
@@ -23007,13 +22968,13 @@ game (
 	releaseday 19
 	users 1
 	rom (
-		name "Monster Hunter Frontier G6 Premium Package (Japan).wux"
+		name "Monster Hunter Frontier G6: Premium Package (Japan).wux"
 		serial "AG6J08"
 	)
 )
 
 game (
-	name "Monster Hunter Frontier G7 Premium Package (Japan)"
+	name "Monster Hunter Frontier G7: Premium Package (Japan)"
 	serial "AM7J08"
 	publisher "Capcom"
 	releaseyear 2015
@@ -23021,13 +22982,13 @@ game (
 	releaseday 15
 	users 1
 	rom (
-		name "Monster Hunter Frontier G7 Premium Package (Japan).wux"
+		name "Monster Hunter Frontier G7: Premium Package (Japan).wux"
 		serial "AM7J08"
 	)
 )
 
 game (
-	name "Monster Hunter Frontier G8 Premium Package (Japan)"
+	name "Monster Hunter Frontier G8: Premium Package (Japan)"
 	serial "AM8J08"
 	developer "Capcom"
 	publisher "Capcom"
@@ -23036,13 +22997,13 @@ game (
 	releaseday 22
 	users 1
 	rom (
-		name "Monster Hunter Frontier G8 Premium Package (Japan).wux"
+		name "Monster Hunter Frontier G8: Premium Package (Japan).wux"
 		serial "AM8J08"
 	)
 )
 
 game (
-	name "Monster Hunter Frontier G9 Premium Package (Japan)"
+	name "Monster Hunter Frontier G9: Premium Package (Japan)"
 	serial "BH9J08"
 	publisher "Capcom"
 	releaseyear 2015
@@ -23050,13 +23011,38 @@ game (
 	releaseday 18
 	users 1
 	rom (
-		name "Monster Hunter Frontier G9 Premium Package (Japan).wux"
+		name "Monster Hunter Frontier G9: Premium Package (Japan).wux"
 		serial "BH9J08"
 	)
 )
 
 game (
-	name "Monster Hunter Frontier GG Premium Package (Japan)"
+	name "Monster Hunter Frontier G: Beginner's Package (Japan)"
+	serial "AMFJ08"
+	publisher "Capcom"
+	releaseyear 2013
+	releasemonth 12
+	releaseday 11
+	users 1
+	rom (
+		name "Monster Hunter Frontier G: Beginner's Package (Japan).wux"
+		serial "AMFJ08"
+	)
+)
+
+game (
+	name "Monster Hunter Frontier G: Memorial Package (Japan)"
+	serial "AMMJ08"
+	releaseyear 2025
+	users 1
+	rom (
+		name "Monster Hunter Frontier G: Memorial Package (Japan).wux"
+		serial "AMMJ08"
+	)
+)
+
+game (
+	name "Monster Hunter Frontier GG: Premium Package (Japan)"
 	serial "APPJ08"
 	developer "Capcom"
 	publisher "Capcom"
@@ -23065,7 +23051,7 @@ game (
 	releaseday 23
 	users 4
 	rom (
-		name "Monster Hunter Frontier GG Premium Package (Japan).wux"
+		name "Monster Hunter Frontier GG: Premium Package (Japan).wux"
 		serial "APPJ08"
 	)
 )
@@ -23080,20 +23066,6 @@ game (
 	rom (
 		name "Monster Hunter Frontier Z (Japan).wux"
 		serial "AMFJ"
-	)
-)
-
-game (
-	name "Monster Hunter: Frontier G (Japan)"
-	serial "AMFJ08"
-	publisher "Capcom"
-	releaseyear 2013
-	releasemonth 12
-	releaseday 11
-	users 1
-	rom (
-		name "Monster Hunter: Frontier G (Japan).wux"
-		serial "AMFJ08"
 	)
 )
 
@@ -23617,21 +23589,6 @@ game (
 )
 
 game (
-	name "NAMCO MUSEUM (Europe)"
-	serial "PA7P"
-	developer "NAMCO BANDAI Games, Inc"
-	publisher "NAMCO BANDAI Games, Inc"
-	releaseyear 2014
-	releasemonth 10
-	releaseday 23
-	users 1
-	rom (
-		name "NAMCO MUSEUM (Europe).wux"
-		serial "PA7P"
-	)
-)
-
-game (
 	name "NAMCO MUSEUM (USA)"
 	serial "PA7E"
 	developer "NAMCO BANDAI Games, Inc."
@@ -23865,6 +23822,21 @@ game (
 )
 
 game (
+	name "Namco Museum (Europe)"
+	serial "PA7P"
+	developer "NAMCO BANDAI Games, Inc"
+	publisher "NAMCO BANDAI Games, Inc"
+	releaseyear 2014
+	releasemonth 10
+	releaseday 23
+	users 1
+	rom (
+		name "Namco Museum (Europe).wux"
+		serial "PA7P"
+	)
+)
+
+game (
 	name "Nano Assault Neo (Europe)"
 	serial "WASP"
 	developer "Shin'en"
@@ -24003,7 +23975,7 @@ game (
 )
 
 game (
-	name "Need for Speed: Most Wanted U (Europe)"
+	name "Need for Speed: Most Wanted U: A Criterion Game (Europe)"
 	serial "ANSP69"
 	developer "Criterion Games"
 	publisher "Electronic Arts"
@@ -24012,13 +23984,13 @@ game (
 	releaseday 19
 	users 2
 	rom (
-		name "Need for Speed: Most Wanted U (Europe).wux"
+		name "Need for Speed: Most Wanted U: A Criterion Game (Europe).wux"
 		serial "ANSP69"
 	)
 )
 
 game (
-	name "Need for Speed: Most Wanted U (Japan)"
+	name "Need for Speed: Most Wanted U: A Criterion Game (Japan)"
 	serial "ANSJ13"
 	developer "Criterion Games"
 	publisher "Electronic Arts"
@@ -24027,13 +23999,13 @@ game (
 	releaseday 20
 	users 2
 	rom (
-		name "Need for Speed: Most Wanted U (Japan).wux"
+		name "Need for Speed: Most Wanted U: A Criterion Game (Japan).wux"
 		serial "ANSJ13"
 	)
 )
 
 game (
-	name "Need for Speed: Most Wanted U (USA)"
+	name "Need for Speed: Most Wanted U: A Criterion Game (USA)"
 	serial "ANSE69"
 	developer "Criterion"
 	publisher "Electronic Arts"
@@ -24043,7 +24015,7 @@ game (
 	users 2
 	esrb_rating "E10+"
 	rom (
-		name "Need for Speed: Most Wanted U (USA).wux"
+		name "Need for Speed: Most Wanted U: A Criterion Game (USA).wux"
 		serial "ANSE69"
 	)
 )
@@ -24963,17 +24935,6 @@ game (
 )
 
 game (
-	name "Nintendo×JOYSOUND Wii Karaoke U (Japan)"
-	serial "WAJJ01"
-	publisher "Nintendo"
-	users 1
-	rom (
-		name "Nintendo×JOYSOUND Wii Karaoke U (Japan).wux"
-		serial "WAJJ01"
-	)
-)
-
-game (
 	name "Nobunaga's Ambition (Europe)"
 	serial "JCLP"
 	developer "Tecmo Koei Games Co., Ltd."
@@ -25550,21 +25511,6 @@ game (
 )
 
 game (
-	name "PAC-MAN COLLECTION (Europe)"
-	serial "PAYP"
-	developer "Bandai Namco Entertainment"
-	publisher "Bandai Namco Entertainment"
-	releaseyear 2014
-	releasemonth 6
-	releaseday 12
-	users 1
-	rom (
-		name "PAC-MAN COLLECTION (Europe).wux"
-		serial "PAYP"
-	)
-)
-
-game (
 	name "PAC-MAN COLLECTION (Japan)"
 	serial "PAYJ"
 	developer "Bandai Namco Entertainment"
@@ -26048,6 +25994,21 @@ game (
 	rom (
 		name "Pac-Man 2: The New Adventures (USA).wux"
 		serial "JDKE"
+	)
+)
+
+game (
+	name "Pac-Man Collection (Europe)"
+	serial "PAYP"
+	developer "Bandai Namco Entertainment"
+	publisher "Bandai Namco Entertainment"
+	releaseyear 2014
+	releasemonth 6
+	releaseday 12
+	users 1
+	rom (
+		name "Pac-Man Collection (Europe).wux"
+		serial "PAYP"
 	)
 )
 
@@ -27258,21 +27219,6 @@ game (
 )
 
 game (
-	name "Pokken Tournament (Japan)"
-	serial "APKJ2P"
-	developer "The Pokémon Company / Bandai Namco Entertainment"
-	publisher "Nintendo"
-	releaseyear 2016
-	releasemonth 3
-	releaseday 18
-	users 2
-	rom (
-		name "Pokken Tournament (Japan).wux"
-		serial "APKJ2P"
-	)
-)
-
-game (
 	name "Pokken Tournament (USA)"
 	serial "APKE01"
 	developer "The Pokémon Company / Bandai Namco Entertainment"
@@ -27285,6 +27231,21 @@ game (
 	rom (
 		name "Pokken Tournament (USA).wux"
 		serial "APKE01"
+	)
+)
+
+game (
+	name "Pokken: Pokken Tournament (Japan)"
+	serial "APKJ2P"
+	developer "The Pokémon Company / Bandai Namco Entertainment"
+	publisher "Nintendo"
+	releaseyear 2016
+	releasemonth 3
+	releaseday 18
+	users 2
+	rom (
+		name "Pokken: Pokken Tournament (Japan).wux"
+		serial "APKJ2P"
 	)
 )
 
@@ -27959,7 +27920,7 @@ game (
 )
 
 game (
-	name "Princess Tomato And The Salad Kingdom (Japan)"
+	name "Princess Tomato and the Salad Kingdom (Japan)"
 	serial "FCVJ"
 	developer "Hudson Soft"
 	publisher "Konami"
@@ -27968,7 +27929,7 @@ game (
 	releaseday 14
 	users 1
 	rom (
-		name "Princess Tomato And The Salad Kingdom (Japan).wux"
+		name "Princess Tomato and the Salad Kingdom (Japan).wux"
 		serial "FCVJ"
 	)
 )
@@ -30084,7 +30045,7 @@ game (
 )
 
 game (
-	name "Runbow Deluxe Edition (USA)"
+	name "Runbow: Deluxe Edition (USA)"
 	serial "BENE8X"
 	developer "13AM Games"
 	publisher "13AM Games"
@@ -30094,7 +30055,7 @@ game (
 	users 9
 	esrb_rating "E"
 	rom (
-		name "Runbow Deluxe Edition (USA).wux"
+		name "Runbow: Deluxe Edition (USA).wux"
 		serial "BENE8X"
 	)
 )
@@ -30142,6 +30103,21 @@ game (
 	rom (
 		name "Rynn's Adventure: Trouble in the Enchanted Forest (USA).wux"
 		serial "AR6E"
+	)
+)
+
+game (
+	name "Ryuu ga Gotoku 1 & 2 HD for Wii U (Japan)"
+	serial "ARYJ8P"
+	developer "Sega"
+	publisher "Sega"
+	releaseyear 2013
+	releasemonth 8
+	releaseday 8
+	users 1
+	rom (
+		name "Ryuu ga Gotoku 1 & 2 HD for Wii U (Japan).wux"
+		serial "ARYJ8P"
 	)
 )
 
@@ -30897,13 +30873,28 @@ game (
 	serial "ASCP01"
 	developer "5TH Cell"
 	publisher "Warner Bros. Interactive Entertainment Inc."
-	releaseyear 2014
-	releasemonth 1
-	releaseday 1
+	releaseyear 2013
+	releasemonth 12
+	releaseday 6
 	users 4
 	rom (
 		name "Scribblenauts Unlimited (Europe).wux"
 		serial "ASCP01"
+	)
+)
+
+game (
+	name "Scribblenauts Unlimited (Europe)"
+	serial "ASCXWR"
+	developer "5th Cell"
+	publisher "Warner Bros. Interactive Entertainment"
+	releaseyear 2012
+	releasemonth 11
+	releaseday 30
+	users 4
+	rom (
+		name "Scribblenauts Unlimited (Europe).wux"
+		serial "ASCXWR"
 	)
 )
 
@@ -30924,7 +30915,7 @@ game (
 )
 
 game (
-	name "Scribblenauts Unmasked: a DC Comics Adventure (Europe)"
+	name "Scribblenauts Unmasked: A DC Comics Adventure (Europe)"
 	serial "ADCPWR"
 	developer "5TH Cell"
 	publisher "Warner Bros. Interactive Entertainment"
@@ -30933,13 +30924,13 @@ game (
 	releaseday 24
 	users 2
 	rom (
-		name "Scribblenauts Unmasked: a DC Comics Adventure (Europe).wux"
+		name "Scribblenauts Unmasked: A DC Comics Adventure (Europe).wux"
 		serial "ADCPWR"
 	)
 )
 
 game (
-	name "Scribblenauts Unmasked: a DC Comics Adventure (USA)"
+	name "Scribblenauts Unmasked: A DC Comics Adventure (USA)"
 	serial "ADCEWR"
 	developer "5TH Cell"
 	publisher "Warner Bros. Interactive Entertainment"
@@ -30949,7 +30940,7 @@ game (
 	users 2
 	esrb_rating "E10+"
 	rom (
-		name "Scribblenauts Unmasked: a DC Comics Adventure (USA).wux"
+		name "Scribblenauts Unmasked: A DC Comics Adventure (USA).wux"
 		serial "ADCEWR"
 	)
 )
@@ -31259,22 +31250,6 @@ game (
 )
 
 game (
-	name "Shantae Half-Genie Hero (USA)"
-	serial "AHFEWY"
-	developer "WayForward"
-	publisher "XSEED Games"
-	releaseyear 2016
-	releasemonth 12
-	releaseday 27
-	users 1
-	esrb_rating "T"
-	rom (
-		name "Shantae Half-Genie Hero (USA).wux"
-		serial "AHFEWY"
-	)
-)
-
-game (
 	name "Shantae and the Pirate's Curse (Europe)"
 	serial "BSXP"
 	developer "WayForward"
@@ -31317,6 +31292,22 @@ game (
 	rom (
 		name "Shantae and the Pirate's Curse (USA).wux"
 		serial "BSXE"
+	)
+)
+
+game (
+	name "Shantae: Half-Genie Hero (USA)"
+	serial "AHFEWY"
+	developer "WayForward"
+	publisher "XSEED Games"
+	releaseyear 2016
+	releasemonth 12
+	releaseday 27
+	users 1
+	esrb_rating "T"
+	rom (
+		name "Shantae: Half-Genie Hero (USA).wux"
+		serial "AHFEWY"
 	)
 )
 
@@ -31427,6 +31418,20 @@ game (
 )
 
 game (
+	name "Shin Hokuto Musou (Japan)"
+	serial "AH9JC8"
+	publisher "Tecmo Koei Games Co. Ltd"
+	releaseyear 2013
+	releasemonth 1
+	releaseday 31
+	users 1
+	rom (
+		name "Shin Hokuto Musou (Japan).wux"
+		serial "AH9JC8"
+	)
+)
+
+game (
 	name "Shin Megami Tensei (Japan)"
 	serial "JA4J"
 	publisher "Atlus"
@@ -31465,21 +31470,6 @@ game (
 	rom (
 		name "Shin Megami Tensei If... (Japan).wux"
 		serial "JBSJ"
-	)
-)
-
-game (
-	name "Shin Megami Tensei X Fire Emblem (Japan)"
-	serial "ASEJ01"
-	developer "Intelligent Systems, Atlus"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 12
-	releaseday 26
-	users 1
-	rom (
-		name "Shin Megami Tensei X Fire Emblem (Japan).wux"
-		serial "ASEJ01"
 	)
 )
 
@@ -31785,37 +31775,6 @@ game (
 )
 
 game (
-	name "SiNG Party (Europe)"
-	serial "ASWP01"
-	developer "FreeStyleGames"
-	publisher "Nintendo"
-	releaseyear 2013
-	releasemonth 1
-	releaseday 18
-	users 1
-	rom (
-		name "SiNG Party (Europe).wux"
-		serial "ASWP01"
-	)
-)
-
-game (
-	name "SiNG Party (USA)"
-	serial "ASWE01"
-	developer "FreeStyleGames"
-	publisher "Nintendo"
-	releaseyear 2012
-	releasemonth 12
-	releaseday 10
-	users 1
-	esrb_rating "E10+"
-	rom (
-		name "SiNG Party (USA).wux"
-		serial "ASWE01"
-	)
-)
-
-game (
 	name "Silence of Glory III Gods of Hercules (Japan)"
 	serial "JA2J"
 	publisher "Paon DP"
@@ -31826,19 +31785,6 @@ game (
 	rom (
 		name "Silence of Glory III Gods of Hercules (Japan).wux"
 		serial "JA2J"
-	)
-)
-
-game (
-	name "Simple DL Series For Wii U Volume One The Behind Closed Doors (Japan)"
-	serial "WD4J"
-	releaseyear 2014
-	releasemonth 4
-	releaseday 9
-	users 1
-	rom (
-		name "Simple DL Series For Wii U Volume One The Behind Closed Doors (Japan).wux"
-		serial "WD4J"
 	)
 )
 
@@ -31858,7 +31804,20 @@ game (
 )
 
 game (
-	name "Simple Wii U Series Vol. 1: The Family Party (Japan)"
+	name "Simple DL Series for Wii U Volume One The Behind Closed Doors (Japan)"
+	serial "WD4J"
+	releaseyear 2014
+	releasemonth 4
+	releaseday 9
+	users 1
+	rom (
+		name "Simple DL Series for Wii U Volume One The Behind Closed Doors (Japan).wux"
+		serial "WD4J"
+	)
+)
+
+game (
+	name "Simple Series for Wii U Vol. 1: The Family Party (Japan)"
 	serial "AFPJG9"
 	developer "Art Co. Ltd."
 	publisher "D3 Publisher"
@@ -31867,23 +31826,8 @@ game (
 	releaseday 20
 	users 4
 	rom (
-		name "Simple Wii U Series Vol. 1: The Family Party (Japan).wux"
+		name "Simple Series for Wii U Vol. 1: The Family Party (Japan).wux"
 		serial "AFPJG9"
-	)
-)
-
-game (
-	name "Sin & Punishment (Europe)"
-	serial "NAMP"
-	developer "Nintendo / Treasure Co., Ltd. "
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 9
-	releaseday 3
-	users 2
-	rom (
-		name "Sin & Punishment (Europe).wux"
-		serial "NAMP"
 	)
 )
 
@@ -31961,6 +31905,37 @@ game (
 	rom (
 		name "Sin and Punishment: Successor to the Sky (Japan).wux"
 		serial "VALJ"
+	)
+)
+
+game (
+	name "Sing Party (Europe)"
+	serial "ASWP01"
+	developer "FreeStyleGames"
+	publisher "Nintendo"
+	releaseyear 2013
+	releasemonth 1
+	releaseday 18
+	users 1
+	rom (
+		name "Sing Party (Europe).wux"
+		serial "ASWP01"
+	)
+)
+
+game (
+	name "Sing Party (USA)"
+	serial "ASWE01"
+	developer "FreeStyleGames"
+	publisher "Nintendo"
+	releaseyear 2012
+	releasemonth 12
+	releaseday 10
+	users 1
+	esrb_rating "E10+"
+	rom (
+		name "Sing Party (USA).wux"
+		serial "ASWE01"
 	)
 )
 
@@ -32119,37 +32094,6 @@ game (
 )
 
 game (
-	name "Skylanders Imaginators (Europe)"
-	serial "BL6P52"
-	developer "Toys For Bob"
-	publisher "Activision"
-	releaseyear 2016
-	releasemonth 10
-	releaseday 14
-	users 2
-	rom (
-		name "Skylanders Imaginators (Europe).wux"
-		serial "BL6P52"
-	)
-)
-
-game (
-	name "Skylanders Imaginators (USA)"
-	serial "BL6E52"
-	developer "Toys For Bob"
-	publisher "Activision"
-	releaseyear 2016
-	releasemonth 10
-	releaseday 16
-	users 2
-	esrb_rating "E10+"
-	rom (
-		name "Skylanders Imaginators (USA).wux"
-		serial "BL6E52"
-	)
-)
-
-game (
 	name "Skylanders: Giants (Europe)"
 	serial "ASLP52"
 	developer "Vicarious Visions"
@@ -32177,6 +32121,37 @@ game (
 	rom (
 		name "Skylanders: Giants (USA).wux"
 		serial "ASLE52"
+	)
+)
+
+game (
+	name "Skylanders: Imaginators (Demo) (Europe)"
+	serial "BL6P52"
+	developer "Toys For Bob"
+	publisher "Activision"
+	releaseyear 2016
+	releasemonth 10
+	releaseday 14
+	users 2
+	rom (
+		name "Skylanders: Imaginators (Demo) (Europe).wux"
+		serial "BL6P52"
+	)
+)
+
+game (
+	name "Skylanders: Imaginators (USA)"
+	serial "BL6E52"
+	developer "Toys For Bob"
+	publisher "Activision"
+	releaseyear 2016
+	releasemonth 10
+	releaseday 16
+	users 2
+	esrb_rating "E10+"
+	rom (
+		name "Skylanders: Imaginators (USA).wux"
+		serial "BL6E52"
 	)
 )
 
@@ -32355,7 +32330,7 @@ game (
 	name "Sniper Elite V2 (Europe)"
 	serial "AS8PGT"
 	developer "Rebellion"
-	publisher "Ubi Soft Entertainment"
+	publisher "505 Games"
 	releaseyear 2013
 	releasemonth 5
 	releaseday 23
@@ -32629,6 +32604,21 @@ game (
 )
 
 game (
+	name "Sonic & All-Stars Racing Transformed (Japan)"
+	serial "AS2J8P"
+	developer "Sumo Digital"
+	publisher "Sega Japan"
+	releaseyear 2014
+	releasemonth 5
+	releaseday 15
+	users 5
+	rom (
+		name "Sonic & All-Stars Racing Transformed (Japan).wux"
+		serial "AS2J8P"
+	)
+)
+
+game (
 	name "Sonic & All-Stars Racing Transformed (USA)"
 	serial "AS2E8P"
 	developer "Sumo Digital"
@@ -32774,21 +32764,6 @@ game (
 	rom (
 		name "Sonic Toon: Taiko no Hihou (Japan).wux"
 		serial "BSSJ8P"
-	)
-)
-
-game (
-	name "Sonic and All-Stars Racing Transformed (Japan)"
-	serial "AS2J8P"
-	developer "Sumo Digital"
-	publisher "Sega Japan"
-	releaseyear 2014
-	releasemonth 5
-	releaseday 15
-	users 5
-	rom (
-		name "Sonic and All-Stars Racing Transformed (Japan).wux"
-		serial "AS2J8P"
 	)
 )
 
@@ -33467,21 +33442,6 @@ game (
 )
 
 game (
-	name "Star Fox 64 (Europe)"
-	serial "NAJP"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2016
-	releasemonth 3
-	releaseday 24
-	users 4
-	rom (
-		name "Star Fox 64 (Europe).wux"
-		serial "NAJP"
-	)
-)
-
-game (
 	name "Star Fox 64 (Japan)"
 	serial "NAJJ"
 	developer "Nintendo"
@@ -33645,7 +33605,7 @@ game (
 game (
 	name "Star Fox Zero (Europe)"
 	serial "AFXP01"
-	developer "Nintendo"
+	developer "Platinum Games"
 	publisher "Nintendo"
 	releaseyear 2016
 	releasemonth 4
@@ -34883,21 +34843,6 @@ game (
 )
 
 game (
-	name "Super Mario 64 (Europe)"
-	serial "NABP"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 4
-	releaseday 2
-	users 1
-	rom (
-		name "Super Mario 64 (Europe).wux"
-		serial "NABP"
-	)
-)
-
-game (
 	name "Super Mario 64 (Japan)"
 	serial "NABJ"
 	developer "Nintendo"
@@ -35830,21 +35775,6 @@ game (
 )
 
 game (
-	name "Super Smash Bros. for Wii U (Japan)"
-	serial "AXFJ01"
-	developer "Sora Ltd. / Bandai Namco Studios Inc."
-	publisher "Nintendo"
-	releaseyear 2014
-	releasemonth 12
-	releaseday 6
-	users 8
-	rom (
-		name "Super Smash Bros. for Wii U (Japan).wux"
-		serial "AXFJ01"
-	)
-)
-
-game (
 	name "Super Smash Bros. for Wii U (USA)"
 	serial "AXFE01"
 	developer "Sora Ltd. / Bandai Namco Studios Inc."
@@ -36151,7 +36081,7 @@ game (
 )
 
 game (
-	name "Susume! Kinopio Taicho (Japan)"
+	name "Susume! Kinopio Taichou (Japan)"
 	serial "AKBJ01"
 	developer "Nintendo"
 	publisher "Nintendo"
@@ -36160,7 +36090,7 @@ game (
 	releaseday 13
 	users 1
 	rom (
-		name "Susume! Kinopio Taicho (Japan).wux"
+		name "Susume! Kinopio Taichou (Japan).wux"
 		serial "AKBJ01"
 	)
 )
@@ -36908,7 +36838,22 @@ game (
 )
 
 game (
-	name "Tekken Tag Tournament 2 (Japan)"
+	name "Tekken Tag Tournament 2: Wii U Edition (Europe)"
+	serial "AKNPAF"
+	developer "Project TEKKEN"
+	publisher "Namco"
+	releaseyear 2012
+	releasemonth 11
+	releaseday 30
+	users 4
+	rom (
+		name "Tekken Tag Tournament 2: Wii U Edition (Europe).wux"
+		serial "AKNPAF"
+	)
+)
+
+game (
+	name "Tekken Tag Tournament 2: Wii U Edition (Japan)"
 	serial "AKNJAF"
 	developer "Project TEKKEN"
 	publisher "Namco"
@@ -36917,13 +36862,13 @@ game (
 	releaseday 8
 	users 4
 	rom (
-		name "Tekken Tag Tournament 2 (Japan).wux"
+		name "Tekken Tag Tournament 2: Wii U Edition (Japan).wux"
 		serial "AKNJAF"
 	)
 )
 
 game (
-	name "Tekken Tag Tournament 2 (USA)"
+	name "Tekken Tag Tournament 2: Wii U Edition (USA)"
 	serial "AKNEAF"
 	developer "Project TEKKEN"
 	publisher "Namco"
@@ -36933,23 +36878,8 @@ game (
 	users 4
 	esrb_rating "T"
 	rom (
-		name "Tekken Tag Tournament 2 (USA).wux"
+		name "Tekken Tag Tournament 2: Wii U Edition (USA).wux"
 		serial "AKNEAF"
-	)
-)
-
-game (
-	name "Tekken: Tag Tournament 2 (Europe)"
-	serial "AKNPAF"
-	developer "Project TEKKEN"
-	publisher "Namco"
-	releaseyear 2012
-	releasemonth 11
-	releaseday 30
-	users 4
-	rom (
-		name "Tekken: Tag Tournament 2 (Europe).wux"
-		serial "AKNPAF"
 	)
 )
 
@@ -37394,7 +37324,7 @@ game (
 )
 
 game (
-	name "The Amazing Spider-Man Ultimate Edition (Europe)"
+	name "The Amazing Spider-Man: Ultimate Edition (Europe)"
 	serial "AMZP52"
 	developer "Beenox"
 	publisher "Activision"
@@ -37403,13 +37333,13 @@ game (
 	releaseday 15
 	users 1
 	rom (
-		name "The Amazing Spider-Man Ultimate Edition (Europe).wux"
+		name "The Amazing Spider-Man: Ultimate Edition (Europe).wux"
 		serial "AMZP52"
 	)
 )
 
 game (
-	name "The Amazing Spider-Man Ultimate Edition (USA)"
+	name "The Amazing Spider-Man: Ultimate Edition (USA)"
 	serial "AMZE52"
 	developer "Beenox"
 	publisher "Activision"
@@ -37419,7 +37349,7 @@ game (
 	users 1
 	esrb_rating "T"
 	rom (
-		name "The Amazing Spider-Man Ultimate Edition (USA).wux"
+		name "The Amazing Spider-Man: Ultimate Edition (USA).wux"
 		serial "AMZE52"
 	)
 )
@@ -37842,7 +37772,7 @@ game (
 )
 
 game (
-	name "The LEGO Movie Videogame (Europe)"
+	name "The LEGO Movie: Videogame (Europe)"
 	serial "ALAPWR"
 	developer "TT Games, TT Fusion"
 	publisher "Warner Bros. Interactive Entertainment Inc."
@@ -37851,28 +37781,13 @@ game (
 	releaseday 14
 	users 2
 	rom (
-		name "The LEGO Movie Videogame (Europe).wux"
+		name "The LEGO Movie: Videogame (Europe).wux"
 		serial "ALAPWR"
 	)
 )
 
 game (
-	name "The LEGO Movie Videogame (Japan)"
-	serial "ALAJWR"
-	developer "TT Games, TT Fusion"
-	publisher "Warner Bros. Interactive Entertainment Inc."
-	releaseyear 2014
-	releasemonth 11
-	releaseday 6
-	users 2
-	rom (
-		name "The LEGO Movie Videogame (Japan).wux"
-		serial "ALAJWR"
-	)
-)
-
-game (
-	name "The LEGO Movie Videogame (USA)"
+	name "The LEGO Movie: Videogame (USA)"
 	serial "ALAEWR"
 	developer "TT Games, TT Fusion"
 	publisher "Warner Bros. Interactive Entertainment Inc."
@@ -37882,7 +37797,7 @@ game (
 	users 2
 	esrb_rating "E10+"
 	rom (
-		name "The LEGO Movie Videogame (USA).wux"
+		name "The LEGO Movie: Videogame (USA).wux"
 		serial "ALAEWR"
 	)
 )
@@ -38035,21 +37950,6 @@ game (
 	rom (
 		name "The Legend of Zelda: Breath of the Wild (Europe).wux"
 		serial "ALZP01"
-	)
-)
-
-game (
-	name "The Legend of Zelda: Breath of the Wild (Japan)"
-	serial "ALZJ01"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2017
-	releasemonth 3
-	releaseday 3
-	users 1
-	rom (
-		name "The Legend of Zelda: Breath of the Wild (Japan).wux"
-		serial "ALZJ01"
 	)
 )
 
@@ -38367,21 +38267,6 @@ game (
 )
 
 game (
-	name "The Legend of Zelda: The Wind Waker HD (Japan)"
-	serial "BCZJ01"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2013
-	releasemonth 9
-	releaseday 26
-	users 1
-	rom (
-		name "The Legend of Zelda: The Wind Waker HD (Japan).wux"
-		serial "BCZJ01"
-	)
-)
-
-game (
 	name "The Legend of Zelda: The Wind Waker HD (USA)"
 	serial "BCZE01"
 	developer "Nintendo"
@@ -38409,21 +38294,6 @@ game (
 	rom (
 		name "The Legend of Zelda: Twilight Princess HD (Europe).wux"
 		serial "AZAP01"
-	)
-)
-
-game (
-	name "The Legend of Zelda: Twilight Princess HD (Japan)"
-	serial "AZAJ01"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2016
-	releasemonth 3
-	releaseday 10
-	users 1
-	rom (
-		name "The Legend of Zelda: Twilight Princess HD (Japan).wux"
-		serial "AZAJ01"
 	)
 )
 
@@ -39099,7 +38969,7 @@ game (
 )
 
 game (
-	name "Tokyo Mirage Sessions #FE (Europe)"
+	name "Tokyo Mirage Sessions FE (Europe)"
 	serial "ASEP01"
 	developer "Atlus"
 	publisher "Nintendo"
@@ -39108,13 +38978,13 @@ game (
 	releaseday 24
 	users 1
 	rom (
-		name "Tokyo Mirage Sessions #FE (Europe).wux"
+		name "Tokyo Mirage Sessions FE (Europe).wux"
 		serial "ASEP01"
 	)
 )
 
 game (
-	name "Tokyo Mirage Sessions #FE (USA)"
+	name "Tokyo Mirage Sessions FE (USA)"
 	serial "ASEE01"
 	developer "Atlus"
 	publisher "Nintendo"
@@ -39124,13 +38994,13 @@ game (
 	users 1
 	esrb_rating "T"
 	rom (
-		name "Tokyo Mirage Sessions #FE (USA).wux"
+		name "Tokyo Mirage Sessions FE (USA).wux"
 		serial "ASEE01"
 	)
 )
 
 game (
-	name "Tom Clancy's Splinter Cell Blacklist (Europe)"
+	name "Tom Clancy's Splinter Cell: Blacklist (Europe)"
 	serial "AS9P41"
 	developer "Ubisoft Toronto"
 	publisher "Ubi Soft Entertainment"
@@ -39139,13 +39009,13 @@ game (
 	releaseday 22
 	users 8
 	rom (
-		name "Tom Clancy's Splinter Cell Blacklist (Europe).wux"
+		name "Tom Clancy's Splinter Cell: Blacklist (Europe).wux"
 		serial "AS9P41"
 	)
 )
 
 game (
-	name "Tom Clancy's Splinter Cell Blacklist (Japan)"
+	name "Tom Clancy's Splinter Cell: Blacklist (Japan)"
 	serial "AS9J41"
 	developer "Ubisoft Toronto"
 	publisher "Square Enix"
@@ -39154,13 +39024,13 @@ game (
 	releaseday 5
 	users 8
 	rom (
-		name "Tom Clancy's Splinter Cell Blacklist (Japan).wux"
+		name "Tom Clancy's Splinter Cell: Blacklist (Japan).wux"
 		serial "AS9J41"
 	)
 )
 
 game (
-	name "Tom Clancy's Splinter Cell Blacklist (USA)"
+	name "Tom Clancy's Splinter Cell: Blacklist (USA)"
 	serial "AS9E41"
 	developer "Ubisoft Toronto"
 	publisher "Ubi Soft Entertainment"
@@ -39170,7 +39040,7 @@ game (
 	users 8
 	esrb_rating "M"
 	rom (
-		name "Tom Clancy's Splinter Cell Blacklist (USA).wux"
+		name "Tom Clancy's Splinter Cell: Blacklist (USA).wux"
 		serial "AS9E41"
 	)
 )
@@ -39432,7 +39302,7 @@ game (
 )
 
 game (
-	name "Transformers: Prime (USA)"
+	name "Transformers Prime: The Game (USA)"
 	serial "ATRE52"
 	developer "Now Production"
 	publisher "Activision"
@@ -39442,8 +39312,23 @@ game (
 	users 2
 	esrb_rating "E10+"
 	rom (
-		name "Transformers: Prime (USA).wux"
+		name "Transformers Prime: The Game (USA).wux"
 		serial "ATRE52"
+	)
+)
+
+game (
+	name "Transformers: Rise of the Dark Spark (Europe)"
+	serial "AYEP52"
+	developer "Edge of Reality"
+	publisher "Activision"
+	releaseyear 2014
+	releasemonth 6
+	releaseday 27
+	users 1
+	rom (
+		name "Transformers: Rise of the Dark Spark (Europe).wux"
+		serial "AYEP52"
 	)
 )
 
@@ -39460,21 +39345,6 @@ game (
 	rom (
 		name "Transformers: Rise of the Dark Spark (USA).wux"
 		serial "AYEE52"
-	)
-)
-
-game (
-	name "Transformers: The Dark Spark (Europe)"
-	serial "AYEP52"
-	developer "Edge of Reality"
-	publisher "Activision"
-	releaseyear 2014
-	releasemonth 6
-	releaseday 27
-	users 1
-	rom (
-		name "Transformers: The Dark Spark (Europe).wux"
-		serial "AYEP52"
 	)
 )
 
@@ -40933,21 +40803,6 @@ game (
 )
 
 game (
-	name "WarioWare, Inc.: Mega Microgame$ (Europe)"
-	serial "PACP"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2014
-	releasemonth 4
-	releaseday 10
-	users 1
-	rom (
-		name "WarioWare, Inc.: Mega Microgame$ (Europe).wux"
-		serial "PACP"
-	)
-)
-
-game (
 	name "WarioWare, Inc.: Mega Microgame$ (USA)"
 	serial "PACE"
 	developer "Nintendo"
@@ -40960,6 +40815,21 @@ game (
 	rom (
 		name "WarioWare, Inc.: Mega Microgame$ (USA).wux"
 		serial "PACE"
+	)
+)
+
+game (
+	name "WarioWare, Inc.: Minigame Mania (Europe)"
+	serial "PACP"
+	developer "Nintendo"
+	publisher "Nintendo"
+	releaseyear 2014
+	releasemonth 4
+	releaseday 10
+	users 1
+	rom (
+		name "WarioWare, Inc.: Minigame Mania (Europe).wux"
+		serial "PACP"
 	)
 )
 
@@ -41068,21 +40938,6 @@ game (
 )
 
 game (
-	name "Watch Dogs (Europe)"
-	serial "AWCP41"
-	developer "Ubi Soft Entertainment"
-	publisher "Ubi Soft Entertainment"
-	releaseyear 2014
-	releasemonth 11
-	releaseday 20
-	users 1
-	rom (
-		name "Watch Dogs (Europe).wux"
-		serial "AWCP41"
-	)
-)
-
-game (
 	name "Watch Dogs (Japan)"
 	serial "AWCJ41"
 	developer "Ubi Soft Entertainment"
@@ -41098,7 +40953,22 @@ game (
 )
 
 game (
-	name "Watch Dogs (USA)"
+	name "Watch_Dogs (Europe)"
+	serial "AWCP41"
+	developer "Ubi Soft Entertainment"
+	publisher "Ubi Soft Entertainment"
+	releaseyear 2014
+	releasemonth 11
+	releaseday 20
+	users 1
+	rom (
+		name "Watch_Dogs (Europe).wux"
+		serial "AWCP41"
+	)
+)
+
+game (
+	name "Watch_Dogs (USA)"
 	serial "AWCE41"
 	developer "Ubi Soft Entertainment"
 	publisher "Ubi Soft Entertainment"
@@ -41108,7 +40978,7 @@ game (
 	users 4
 	esrb_rating "M"
 	rom (
-		name "Watch Dogs (USA).wux"
+		name "Watch_Dogs (USA).wux"
 		serial "AWCE41"
 	)
 )
@@ -41125,21 +40995,6 @@ game (
 	rom (
 		name "Watchup: Your Daily Newscast (USA).wux"
 		serial "AWUE"
-	)
-)
-
-game (
-	name "Wave Race 64 (Europe)"
-	serial "NAKP"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2015
-	releasemonth 12
-	releaseday 31
-	users 2
-	rom (
-		name "Wave Race 64 (Europe).wux"
-		serial "NAKP"
 	)
 )
 
@@ -41366,7 +41221,7 @@ game (
 )
 
 game (
-	name "Wii Karaoke U (Trial Disc) (Japan)"
+	name "Wii Karaoke U (Japan)"
 	serial "WAHJ01"
 	developer "TOSE"
 	publisher "Nintendo"
@@ -41375,7 +41230,7 @@ game (
 	releaseday 8
 	users 1
 	rom (
-		name "Wii Karaoke U (Trial Disc) (Japan).wux"
+		name "Wii Karaoke U (Japan).wux"
 		serial "WAHJ01"
 	)
 )
@@ -41523,9 +41378,9 @@ game (
 	serial "WHXP"
 	developer "Google"
 	publisher "Nintendo"
-	releaseyear 2014
-	releasemonth 1
-	releaseday 1
+	releaseyear 2013
+	releasemonth 2
+	releaseday 14
 	users 1
 	rom (
 		name "Wii Street U (Europe).wux"
@@ -41989,38 +41844,6 @@ game (
 )
 
 game (
-	name "Wipeout 3 (USA)"
-	serial "AW3E52"
-	developer "Activision"
-	publisher "Activision"
-	releaseyear 2012
-	releasemonth 9
-	releaseday 25
-	users 4
-	esrb_rating "E10+"
-	rom (
-		name "Wipeout 3 (USA).wux"
-		serial "AW3E52"
-	)
-)
-
-game (
-	name "Wipeout: Create & Crash (USA)"
-	serial "AW4E52"
-	developer "Behaviour Interactive"
-	publisher "Activision"
-	releaseyear 2013
-	releasemonth 10
-	releaseday 14
-	users 4
-	esrb_rating "E10+"
-	rom (
-		name "Wipeout: Create & Crash (USA).wux"
-		serial "AW4E52"
-	)
-)
-
-game (
 	name "Woah Dave! (USA)"
 	serial "AWEE"
 	developer "Choice Provisions"
@@ -42468,7 +42291,7 @@ game (
 )
 
 game (
-	name "Xenoblade Cross (Japan)"
+	name "XenobladeX (Japan)"
 	serial "AX5J01"
 	developer "Monolith Software"
 	publisher "Nintendo"
@@ -42477,7 +42300,7 @@ game (
 	releaseday 29
 	users 4
 	rom (
-		name "Xenoblade Cross (Japan).wux"
+		name "XenobladeX (Japan).wux"
 		serial "AX5J01"
 	)
 )
@@ -42598,21 +42421,6 @@ game (
 	rom (
 		name "Yakuman Houou (Japan).wux"
 		serial "WAUJ"
-	)
-)
-
-game (
-	name "Yakuza 1 & 2 HD (Japan)"
-	serial "ARYJ8P"
-	developer "Sega"
-	publisher "Sega"
-	releaseyear 2013
-	releasemonth 8
-	releaseday 8
-	users 1
-	rom (
-		name "Yakuza 1 & 2 HD (Japan).wux"
-		serial "ARYJ8P"
 	)
 )
 
@@ -42886,21 +42694,6 @@ game (
 	rom (
 		name "Yoshi's Island: Super Mario Advance 3 (USA).wux"
 		serial "PABE"
-	)
-)
-
-game (
-	name "Yoshi's Story (Europe)"
-	serial "NAPP"
-	developer "Nintendo"
-	publisher "Nintendo"
-	releaseyear 2016
-	releasemonth 4
-	releaseday 14
-	users 1
-	rom (
-		name "Yoshi's Story (Europe).wux"
-		serial "NAPP"
 	)
 )
 
@@ -43196,6 +42989,51 @@ game (
 )
 
 game (
+	name "Zelda no Densetsu: Breath of the Wild (Japan)"
+	serial "ALZJ01"
+	developer "Nintendo"
+	publisher "Nintendo"
+	releaseyear 2017
+	releasemonth 3
+	releaseday 3
+	users 1
+	rom (
+		name "Zelda no Densetsu: Breath of the Wild (Japan).wux"
+		serial "ALZJ01"
+	)
+)
+
+game (
+	name "Zelda no Densetsu: Kaze no Takt HD (Japan)"
+	serial "BCZJ01"
+	developer "Nintendo"
+	publisher "Nintendo"
+	releaseyear 2013
+	releasemonth 9
+	releaseday 26
+	users 1
+	rom (
+		name "Zelda no Densetsu: Kaze no Takt HD (Japan).wux"
+		serial "BCZJ01"
+	)
+)
+
+game (
+	name "Zelda no Densetsu: Twilight Princess HD (Japan)"
+	serial "AZAJ01"
+	developer "Nintendo"
+	publisher "Nintendo"
+	releaseyear 2016
+	releasemonth 3
+	releaseday 10
+	users 1
+	rom (
+		name "Zelda no Densetsu: Twilight Princess HD (Japan).wux"
+		serial "AZAJ01"
+	)
+)
+
+game (
 	name "Zen Pinball 2 (Europe)"
 	serial "WBAP"
 	developer "Zen Studios"
@@ -43473,7 +43311,7 @@ game (
 )
 
 game (
-	name "Zumba Fitness World Party (Europe)"
+	name "Zumba Fitness: World Party (Europe)"
 	serial "AZBPGT"
 	developer "Zoë Mode"
 	publisher "505 Games"
@@ -43482,13 +43320,13 @@ game (
 	releaseday 6
 	users 4
 	rom (
-		name "Zumba Fitness World Party (Europe).wux"
+		name "Zumba Fitness: World Party (Europe).wux"
 		serial "AZBPGT"
 	)
 )
 
 game (
-	name "Zumba Fitness World Party (Japan)"
+	name "Zumba Fitness: World Party (Japan)"
 	serial "AZBJ5G"
 	developer "Zoë Mode"
 	publisher "Hamster"
@@ -43497,13 +43335,13 @@ game (
 	releaseday 23
 	users 4
 	rom (
-		name "Zumba Fitness World Party (Japan).wux"
+		name "Zumba Fitness: World Party (Japan).wux"
 		serial "AZBJ5G"
 	)
 )
 
 game (
-	name "Zumba Fitness World Party (USA)"
+	name "Zumba Fitness: World Party (USA)"
 	serial "AZBE5G"
 	developer "Zoë Mode"
 	publisher "Majesco Entertainment"
@@ -43513,7 +43351,7 @@ game (
 	users 4
 	esrb_rating "E"
 	rom (
-		name "Zumba Fitness World Party (USA).wux"
+		name "Zumba Fitness: World Party (USA).wux"
 		serial "AZBE5G"
 	)
 )

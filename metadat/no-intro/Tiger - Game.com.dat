@@ -1,7 +1,8 @@
 clrmamepro (
 	name "Tiger - Game.com"
 	description "Tiger - Game.com"
-	version "2026.01.17"
+	version "2026.10.07"
+	extensions "tgc"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 

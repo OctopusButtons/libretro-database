@@ -1,7 +1,8 @@
 clrmamepro (
 	name "Sharp - X68000"
 	description "Sharp - X68000"
-	version "2026.01.17"
+	version "2026.10.07"
+	extensions "raw"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 

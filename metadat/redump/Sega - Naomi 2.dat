@@ -1,7 +1,8 @@
 clrmamepro (
 	name "Sega - Naomi 2"
 	description "Sega - Naomi 2"
-	version "2026.01.17"
+	version "2026.10.07"
+	extensions "bin"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 

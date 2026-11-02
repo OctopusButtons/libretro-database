@@ -1,7 +1,8 @@
 clrmamepro (
 	name "LeapFrog - Leapster Learning Game System"
 	description "LeapFrog - Leapster Learning Game System"
-	version "2026.01.17"
+	version "2026.10.07"
+	extensions "bin"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -132,6 +133,11 @@ game (
 	rom ( name "Demo - Herbst 2004 II (Germany).bin" size 8388608 crc 71062CD7 md5 707A056024348A835D8C915A8FE8788E sha1 EAF0656D29F61D89B97C6D66E73A2FA7021A92E3 )
 )
 game (
+	name "Didou - Dessine-Moi une Aventure ! (France)"
+	region "France"
+	rom ( name "Didou - Dessine-Moi une Aventure ! (France).bin" size 8388608 crc 5A66A307 md5 9A80BF94273B9E0848A9292D1D7BAFE9 sha1 AC880E02C5EF164A9DE918BDD76BC74886B35DAF )
+)
+game (
 	name "Digging for Dinosaurs (USA)"
 	region "USA"
 	rom ( name "Digging for Dinosaurs (USA).bin" size 8388608 crc 822CA3DA md5 2C8433B2FEED80376A8394652524E2DF sha1 FF0AC7F5FDED346553E1A4697B45C27FC04EE3FE )
@@ -156,24 +162,6 @@ game (
 	region "USA"
 	serial "500-13514-A"
 	rom ( name "Disney Princess (USA).bin" size 8388608 crc 5CCB2AD3 md5 DAA80DAA4F5E1421ACD86781377F459A sha1 42740F6597F4A2EB878A54DDBF75452A2CCA301D serial "500-13514-A" )
-)
-game (
-	name "Disney Princess - Enchanted Learning (USA) (Beta)"
-	releaseyear "2004"
-	releasemonth "05"
-	releaseday "17"
-	region "USA"
-	serial "123-01507"
-	rom ( name "Disney Princess - Enchanted Learning (USA) (Beta) (2004-05-17).bin" size 8388608 crc 704C4891 md5 B966EA83FA4CEBB1C712C576CEB7F748 sha1 1F4AD21809603A6D74573B497850CBFBC8E8E271 serial "123-01507" )
-)
-game (
-	name "Disney Princess - Enchanted Learning (USA) (Beta)"
-	releaseyear "2004"
-	releasemonth "06"
-	releaseday "22"
-	region "USA"
-	serial "152-10661"
-	rom ( name "Disney Princess - Enchanted Learning (USA) (Beta) (2004-06-22).bin" size 8388608 crc 8C2FE2E8 md5 DD112E9C0D79E7B339E43EC3946871BC sha1 E4400EC8D505FF1E8DEF76757ED3D9251086F176 serial "152-10661" )
 )
 game (
 	name "Disney Princess - Worlds of Enchantment (USA)"
@@ -215,15 +203,6 @@ game (
 	name "Dora the Explorer - Pinata Party! (USA)"
 	region "USA"
 	rom ( name "Dora the Explorer - Pinata Party! (USA).bin" size 4194304 crc EA544030 md5 D95BE180E093A782D0F87FC32B6E1200 sha1 A9AAF73E5259DB303F8BFC39BD6D7B40BDDB127F )
-)
-game (
-	name "Dora the Explorer - Wildlife Rescue (USA) (Beta)"
-	releaseyear "2003"
-	releasemonth "10"
-	releaseday "23"
-	region "USA"
-	serial "152-10401"
-	rom ( name "Dora the Explorer - Wildlife Rescue (USA) (Beta) (2003-10-23).bin" size 8388608 crc 2A20CBBB md5 D4A1C2FE0B957FC1F98D63D42FAF1837 sha1 0BA77D84B84DB63035688626DD3DF6B10A676E17 serial "152-10401" )
 )
 game (
 	name "Dora the Explorer - Wildlife Rescue (USA) (L-MAX)"
@@ -298,18 +277,14 @@ game (
 	rom ( name "Incredibles Animation Sample (USA) (Proto) (2004-04-13).bin" size 8388608 crc FF6F07F1 md5 8C6F51338348ADA4172AD8A7D514D06B sha1 81F13D34B58987A048E0C14D90413887349A208D )
 )
 game (
+	name "Incredibles, The (USA)"
+	region "USA"
+	rom ( name "Incredibles, The (USA).bin" size 8388608 crc EA5C15B1 md5 40CF2F6F1DE91B2843B25C636ED77CCC sha1 2AB154153481802593D9004DAE8FC5FCBA0B6E88 )
+)
+game (
 	name "Kindergarten (USA)"
 	region "USA"
 	rom ( name "Kindergarten (USA).bin" size 8388608 crc DB262164 md5 644B433172C8C29EF6EA7BC3D1EEC67C sha1 2ECE5050D65D020CCE70E220AF3C11C9827029AC )
-)
-game (
-	name "Kindergarten (USA) (Beta)"
-	releaseyear "2003"
-	releasemonth "09"
-	releaseday "09"
-	region "USA"
-	serial "152-01507"
-	rom ( name "Kindergarten (USA) (Beta) (2003-09-09).bin" size 8388608 crc 8551C3DD md5 1C15B205DCE5A67F35581997ACCDE8AF sha1 8E91AF6E45625734DB7CE40FAB290469B831CD49 serial "152-01507" )
 )
 game (
 	name "La riviere des lapins + L'atelier de peinture (France)"
@@ -320,15 +295,6 @@ game (
 	name "Lapin Malin - Danse avec les mots (France)"
 	region "France"
 	rom ( name "Lapin Malin - Danse avec les mots (France).bin" size 8388608 crc 680F3323 md5 AB153F8FF16C06C2CAECBB56B28642DF sha1 FC28A2B4E86CBDBF5F3218BD36FB7B72D9BD44D3 )
-)
-game (
-	name "Leaning with Leap (USA) (Beta)"
-	releaseyear "2003"
-	releasemonth "08"
-	releaseday "24"
-	region "USA"
-	serial "152-10253"
-	rom ( name "Leaning with Leap (USA) (Beta) (2003-08-24).bin" size 8388608 crc 9C03ADB6 md5 1C52BAC0806CE3B0AF41AB4C49CE646B sha1 2FAF5055B2A198EABC01EB7F2ECAA7EE0FF6E953 serial "152-10253" )
 )
 game (
 	name "Learning with Leap (USA)"
@@ -416,15 +382,6 @@ game (
 	region "USA"
 	serial "500-13446-A"
 	rom ( name "Pet Pals (USA).bin" size 8388608 crc 3C428A13 md5 3E1C43B01D55CD7A084F712D33065490 sha1 B90CDD518178849EFABF7E3E17BF99072D964FAD serial "500-13446-A" )
-)
-game (
-	name "Pet Pals (USA) (Beta)"
-	releaseyear "2006"
-	releasemonth "11"
-	releaseday "30"
-	region "USA"
-	serial "152-11781"
-	rom ( name "Pet Pals (USA) (Beta) (2006-11-30).bin" size 8388608 crc 21753990 md5 5387D9217DBE75F46701BA66BAB59590 sha1 31075E5FF307FB3F23A6590E04E3AD1A7CDFEFED serial "152-11781" )
 )
 game (
 	name "Phonics - Lesson One (USA)"
@@ -592,6 +549,11 @@ game (
 	name "Thomas & Friends - Calling All Engines! (USA)"
 	region "USA"
 	rom ( name "Thomas & Friends - Calling All Engines! (USA).bin" size 8388608 crc 5303D366 md5 5DF6C5EC641FB5CDA621419945F4664E sha1 A7A65B5027D742634DD0860D3DB44981C2351A05 )
+)
+game (
+	name "Toy Story 3 (France)"
+	region "France"
+	rom ( name "Toy Story 3 (France).bin" size 8388608 crc DB3522EB md5 E49CB0278F2AF5EBFF45CC1F275E3A7A sha1 5D546AB6D1F576D917D2D637ACA877B8DDD131BD )
 )
 game (
 	name "Toy Story 3 (USA)"

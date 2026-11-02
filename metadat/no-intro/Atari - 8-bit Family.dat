@@ -1,7 +1,8 @@
 clrmamepro (
 	name "Atari - 8-bit Family"
 	description "Atari - 8-bit Family"
-	version "2026.01.17"
+	version "2026.10.07"
+	extensions "atr|atx|bin|raw"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -36,6 +37,11 @@ game (
 	rom ( name "Archon (USA, Europe).bin" size 32768 crc 2636829F md5 77ABA8E96975B4BB7A714591505CE38F sha1 BFB2782A117CF3EFD5B71E225052F737658864C4 )
 )
 game (
+	name "Ballblazer (USA)"
+	region "USA"
+	rom ( name "Ballblazer (USA).bin" size 65536 crc 820E5CE5 md5 06944F52BC52AE8F548BE5441DEE939E sha1 16820A57A10FD779ED160E8A25471882E23A719B )
+)
+game (
 	name "Barnyard Blaster (USA, Europe)"
 	region "USA"
 	rom ( name "Barnyard Blaster (USA, Europe).bin" size 131072 crc 13AE30ED md5 91098AD7A1049022505359ED68472DAB sha1 E4B22790FCE8E2E0F7C972960AEC692B7FD5E016 )
@@ -44,6 +50,11 @@ game (
 	name "Basketball (USA)"
 	region "USA"
 	rom ( name "Basketball (USA).bin" size 8192 crc 79934851 md5 DDD9F7E02145CA65B6CC2C5308D366F0 sha1 639E8F9BF907ED2C46D183F2CDBE33783F6DA2FA )
+)
+game (
+	name "Boulders and Bombs (USA)"
+	region "USA"
+	rom ( name "Boulders and Bombs (USA).bin" size 8192 crc D6D51D3E md5 24EDB74C29E76171A29D6944D464359B sha1 90901CD874F4ECE8E18D9FFF63E2368B4A315624 )
 )
 game (
 	name "Caverns of Mars (USA)"
@@ -64,6 +75,11 @@ game (
 	name "Desert Falcon (USA, Europe)"
 	region "USA"
 	rom ( name "Desert Falcon (USA, Europe).bin" size 65536 crc A8F9324D md5 CBB80479B6C87B9E341C3662635A3AF4 sha1 FD4666796A4498339835D75DDB63C7B99D1D93BB )
+)
+game (
+	name "E.T. Phone Home! (USA)"
+	region "USA"
+	rom ( name "E.T. Phone Home! (USA).bin" size 16384 crc BCE4EF51 md5 8B8FB5CFDD26B7F352198AF07402F3F5 sha1 C4A10CE59EE183EF4299E50A0825EC23B4315B56 )
 )
 game (
 	name "Eastern Front (1941) (USA)"
@@ -96,6 +112,11 @@ game (
 	rom ( name "Gato (USA, Europe).bin" size 131072 crc AB06A3F5 md5 A14BC5FC0BF309C1BFC51EFDC495814B sha1 CABB1EFFA554D915521B2A49961D8E61B67EC9B3 )
 )
 game (
+	name "HardBall! (USA)"
+	region "USA"
+	rom ( name "HardBall! (USA).bin" size 65536 crc BF0C6DF2 md5 B6C4DE367B60EF35A7A778421C990E5D sha1 8A8556B2398168A557BC04E37F1F3A26BC066147 )
+)
+game (
 	name "Joust (USA)"
 	region "USA"
 	rom ( name "Joust (USA).bin" size 16384 crc F6EC618C md5 79E9146264BB499105AE6815B67C4B6A sha1 975C5B3F818D20C5FEB868A25159A678F8C34E1B )
@@ -109,6 +130,11 @@ game (
 	name "Lode Runner (USA, Europe)"
 	region "USA"
 	rom ( name "Lode Runner (USA, Europe).bin" size 65536 crc B9A89BBD md5 FC1DE46E0845304F9886B9A3C5530496 sha1 9C59CF69F1C248FB673A3712EC7E35B1A0C42523 )
+)
+game (
+	name "Millipede (USA)"
+	region "USA"
+	rom ( name "Millipede (USA).bin" size 16384 crc FB7E45DA md5 989ED0907DC7E308EF5F656118FDAF20 sha1 957AE30C14EFAA8C05D270FD232676B0D03A1B41 )
 )
 game (
 	name "Miner 2049er (USA)"
@@ -134,6 +160,11 @@ game (
 	name "Pac-Man (Europe)"
 	region "Europe"
 	rom ( name "Pac-Man (Europe).bin" size 8192 crc 61CF6167 md5 E66E9AF9AF01B019CD4E54ABA813FBAC sha1 BC600EF63F8D1BDD3911981C2752EA23DB959960 )
+)
+game (
+	name "Pengo (USA, Europe)"
+	region "USA"
+	rom ( name "Pengo (USA, Europe).bin" size 16384 crc D8A9FE0A md5 5761A63513222A5095650EE769644DD1 sha1 2C0CB48CAEB77B25551D27FADE419454FA2FD114 )
 )
 game (
 	name "Pole Position (Europe)"
